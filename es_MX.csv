@@ -3675,7 +3675,7 @@ Grand Total,Gran Total,theme,frontend/Emthemes/everything_default
 "Items %1-%2 of %3","Artículos %1-%2 de %3",theme,frontend/Emthemes/everything_default
 Move Selected to Wish List,Mover seleccionado a la lista de deseos,theme,frontend/Emthemes/everything_default
 Move to Wish List,Mover a la lista de deseos,theme,frontend/Emthemes/everything_default
-My Wish List,Mi lista de deseos,theme,frontend/Emthemes/everything_default
+My Wish List,Mi HotBox,theme,frontend/Emthemes/everything_default
 Print Order,Imprimir Orden,theme,frontend/Emthemes/everything_default
 Proceed to Checkout,Comprar Ahora,theme,frontend/Emthemes/everything_default
 Regular Price,Precio regular,theme,frontend/Emthemes/everything_default
@@ -13154,8 +13154,8 @@ Item,Artículo,module,Magento_MultipleWishlist
 Last Name,Apellido,module,Magento_MultipleWishlist
 Move Selected to Wish List,Mover seleccionado a la lista de deseos,module,Magento_MultipleWishlist
 Move to Wish List,Mover a la lista de pedidos,module,Magento_MultipleWishlist
-My Wish Lists,Mis listas de deseos,module,Magento_MultipleWishlist
-My Wish Lists Link,Enlace de mis listas de deseos,module,Magento_MultipleWishlist
+My Wish Lists,Mis HotBox,module,Magento_MultipleWishlist
+My Wish Lists Mis HotBox,module,Magento_MultipleWishlist
 Name,Nombre,module,Magento_MultipleWishlist
 No items,No hay artículos,module,Magento_MultipleWishlist
 Number of Multiple Wish Lists,Número de múltiples listas de deseos,module,Magento_MultipleWishlist
@@ -21289,8 +21289,8 @@ message,mensaje,module,Magento_Wishlist
 "Message from %customer_name:","Mensaje de %customer_name:",module,Magento_Wishlist
 "Message length must not exceed %1 symbols","Longitud del mensaje no debe superar los %1 símbolos",module,Magento_Wishlist
 Move to Wishlist,Mover a mi lista de deseos,module,Magento_Wishlist
-My Wish List,Mi lista de deseos,module,Magento_Wishlist
-My Wish List Link,Enlace de mi lista de deseos,module,Magento_Wishlist
+My Wish List,Mi HotBox,module,Magento_Wishlist
+My Wish List Link,Mi HotBox Link,module,Magento_Wishlist
 No Items Found,No se encontraron artículos,module,Magento_Wishlist
 Options Details,Detalles de las opciones,module,Magento_Wishlist
 Out of stock,Sin stock,module,Magento_Wishlist
