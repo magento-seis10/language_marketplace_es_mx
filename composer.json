@@ -1,0 +1,16 @@
+{
+    "name": "magento-seis10/language_marketplace_es_mx",
+    "type": "magento2-language",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "description": "Spanish (Mexico) language for Magento2 Marketpalce",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+}
