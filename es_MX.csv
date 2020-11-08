@@ -1435,7 +1435,7 @@ Add products,Agregar productos,module,Amasty_Mostviewed
 Add Selected Products,Agregar productos seleccionados,module,Amasty_Mostviewed 
 Add to Cart,Añadir al carrito,module,Amasty_Mostviewed 
 Add to Compare,Añadir a comparar,module,Amasty_Mostviewed 
-Add to Wish List,Añadir a la lista de deseos,module,Amasty_Mostviewed 
+Add to Wish List,Agregar al HotBox,module,Amasty_Mostviewed 
 After Native Cross-sells Block,Después del bloque de ventas cruzadas nativas,module,Amasty_Mostviewed 
 After Native Related Block,Después del bloque relacionado nativo,module,Amasty_Mostviewed 
 After Native Up-sells Block,Después del bloque de ventas ascendentes nativas,module,Amasty_Mostviewed 
@@ -3001,7 +3001,7 @@ Add Brands to Account Top Links,Agregar marcas a los enlaces principales de la c
 Add to Cart,Añadir al carrito,module,Amasty_ShopbyBrand 
 Add to Compare,Añadir a comparar,module,Amasty_ShopbyBrand 
 Add to the slider,Añadir al control deslizante,module,Amasty_ShopbyBrand 
-Add to Wish List,Añadir a la lista de deseos,module,Amasty_ShopbyBrand 
+Add to Wish List,Agregar al HotBox,module,Amasty_ShopbyBrand 
 Adds a key before brand name in URL like /[key]/brand-name.html,Agrega una clave antes del nombre de la marca en la URL como /[key]/brand-name.html,module,Amasty_ShopbyBrand 
 All Brands,Todas las marcas,module,Amasty_ShopbyBrand 
 All Brands page,Página de todas las marcas,module,Amasty_ShopbyBrand 
@@ -3532,7 +3532,7 @@ XML Google Sitemap,XML Sitemap de Google,module,Amasty_XmlSitemap
 yearly,anual,module,Amasty_XmlSitemap 
 Add to Cart,Añadir al carrito,module,Amasty_Xsearch 
 Add to Compare,Añadir a comparar,module,Amasty_Xsearch 
-Add to Wish List,Añadir a la lista de deseos,module,Amasty_Xsearch 
+Add to Wish List,Agregar al HotBox,module,Amasty_Xsearch 
 Advanced Search,Búsqueda Avanzada,module,Amasty_Xsearch 
 "Allows to search by blog pages created with Amasty <a target='_blank' href='%1'>Blog</a> extension.","Permite buscar por páginas de blog creadas con la extensión Amasty <a target='_blank' href='%1'> Blog </a>.",module,Amasty_Xsearch 
 Allows to search by blog pages created with Amasty <a target='_blank' href='https://amasty.com/blog-pro-for-magento-2.html?utm_source=extension&utm_medium=backend&utm_campaign=Amasty_Xsearch-to-blog_m2'>Blog</a> extension.,Permite buscar por páginas de blog creadas con Amasty <a target = '_ blank' href = 'https: //amasty.com/blog-pro-for-magento-2.html? Utm_source = extension & utm_medium = backend & utm_campaign = Amasty_Xsearch-to-blog_m2 '> Blog </a> extensión.,module,Amasty_Xsearch 
@@ -3663,7 +3663,7 @@ Print Orders,Imprimir Ordenes,module,Fooman_PrintOrderPdf
 "%1 items in wish list","%1 artículos en la lista de deseos",theme,frontend/Emthemes/everything_default
 1 item in wish list,1 artículo en lista de deseos,theme,frontend/Emthemes/everything_default
 Add to Compare,Agregar a Comparar,theme,frontend/Emthemes/everything_default
-Add to Wish List,Agregar a la lista de deseos,theme,frontend/Emthemes/everything_default
+Add to Wish List,Agregar al HotBox,theme,frontend/Emthemes/everything_default
 Card Verification Number,Número de verificación de tarjeta,theme,frontend/Emthemes/everything_default
 Compare Products,Comparar Productos,theme,frontend/Emthemes/everything_default
 Continue to Shipping Information,Continuar con información de envío,theme,frontend/Emthemes/everything_default
@@ -6563,8 +6563,8 @@ Add this attribute to the list of filter options in the product grid.,Agregar es
 Add to Cart,Agregar,module,Magento_Catalog
 Add to Column Options,Agregar a las opciones de columna,module,Magento_Catalog
 Add to Compare,Agregar para comparar,module,Magento_Catalog
-Add to Wish List,Agregar a lista de deseos,module,Magento_Catalog
-Add to Wishlist,Agregar a lista que quieres,module,Magento_Catalog
+Add to Wish List,Agregar al HotBox,module,Magento_Catalog
+Add to Wishlist,Agregar al HotBox,module,Magento_Catalog
 Add Up-Sell Products,Agregue los artículos de venta mejorada,module,Magento_Catalog
 Add Value,Agregar un valor,module,Magento_Catalog
 Added,Agregado,module,Magento_Catalog
@@ -8005,7 +8005,7 @@ Tiempo en segundos entre actualizaciones de widgets.
 "86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","La opción predeterminada es 86400, si no se configura. Para actualizarla instantáneamente, borre el caché de salida de bloques HTML.",module,Magento_CatalogUrlRewrite
 Add to Cart,Añadir al carrito,module,Magento_CatalogUrlRewrite
 Add to Compare,Añadir para comparar,module,Magento_CatalogUrlRewrite
-Add to Wish List,Añadir a la Lista de Deseos,module,Magento_CatalogUrlRewrite
+Add to Wish List,Agregar al HotBox,module,Magento_CatalogUrlRewrite
 Cache Lifetime (Seconds),Ciclo de vida caché (segundos),module,Magento_CatalogUrlRewrite
 Catalog Products List,Lista de productos de catálogo,module,Magento_CatalogUrlRewrite
 Category URL Suffix,Sufijo URL de categoría,module,Magento_CatalogUrlRewrite
@@ -8033,7 +8033,7 @@ Catalog Url Rewrite Staging,Escenificación de reescritura de Url de Catálogo,m
 "86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","La opción predeterminada es 86400, si no se la configura. Para actualizarla instantáneamente, borre la memoria caché de salida HTML del bloque.",module,Magento_CatalogWidget
 Add to Cart,Agregar,module,Magento_CatalogWidget
 Add to Compare,Agregar para comparar,module,Magento_CatalogWidget
-Add to Wish List,Agregar a la Lista de Deseos,module,Magento_CatalogWidget
+Add to Wish List,Agregar al HotBox,module,Magento_CatalogWidget
 Cache Lifetime (Seconds),Caché ciclo de vida caché (segundos),module,Magento_CatalogWidget
 Catalog Products List,Lista de artículos de catálogo,module,Magento_CatalogWidget
 Conditions,Condiciones,module,Magento_CatalogWidget
@@ -13120,7 +13120,7 @@ ZIP,C.P,module,Magento_MultipleLocationInventory
 Actions,Acciones,module,Magento_MultipleWishlist
 Add to Cart,Agregar,module,Magento_MultipleWishlist
 Add To Order,Agregar al pedido,module,Magento_MultipleWishlist
-Add to Wish List,Agregar a la Lista de Deseos,module,Magento_MultipleWishlist
+Add to Wish List,Agregar al HotBox,module,Magento_MultipleWishlist
 Add to:,Agregar a:,module,Magento_MultipleWishlist
 Added,Agregado,module,Magento_MultipleWishlist
 All Forms,Todas las formas,module,Magento_MultipleWishlist
@@ -15777,7 +15777,7 @@ Abandoned carts,Carritos abandonados,module,Magento_Reports
 Action,Acción,module,Magento_Reports
 Add to Cart,Agregar,module,Magento_Reports
 Add to Compare,Agregar para comparar,module,Magento_Reports
-Add to Wish List,Agregar a lista de deseos,module,Magento_Reports
+Add to Wish List,Agregar al HotBox,module,Magento_Reports
 All Websites,Todos los sitios web,module,Magento_Reports
 "An error occurred while showing the product views report. Please review the log and try again.","Error al mostrar el informe de opiniones de productos. Por favor, revise el registro y vuelva a intentarlo.",module,Magento_Reports
 Applied Coupon,Cupón aplicado,module,Magento_Reports
@@ -21246,7 +21246,7 @@ Add Date,Agregar fecha,module,Magento_Wishlist
 Add Locale,Agregar configuración regional,module,Magento_Wishlist
 Add to Cart,Agregar,module,Magento_Wishlist
 Add to Compare,Agregar para comparar,module,Magento_Wishlist
-Add to Wish List,Agregar a la Lista de Deseos,module,Magento_Wishlist
+Add to Wish List,Agregar al HotBox,module,Magento_Wishlist
 Add To Wishlist,Añadir a la lista de deseos,module,Magento_Wishlist
 "An item option with code %1 already exists.","Ya existe una opción de artículo con el código %1.",module,Magento_Wishlist
 Are you sure you want to remove this item?,¿Está seguro de que quiere eliminar este elemento?,module,Magento_Wishlist
@@ -24517,7 +24517,7 @@ Original Class,Clase original,module,WeltPixel_Backend
 Rewrite Class,Clase de reescritura,module,WeltPixel_Backend 
 Status,Estado,module,WeltPixel_Backend 
 ,,,
-Add to Wish List,Añadir a la lista de deseos,module,frontend/Mgs/claue
+Add to Wish List,Agregar al HotBox,module,frontend/Mgs/claue
 Add to Compare,Añadir a comparar,module,frontend/Mgs/claue
 Add to Cart,Añadir al carrito,module,frontend/Mgs/claue
 From,De,module,frontend/Mgs/claue
