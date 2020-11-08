@@ -24880,7 +24880,7 @@ Invitee,invitado,module,frontend/Mgs/claue
 "Maximum %1 email addresses allowed.","máximo %1  de direcciones de correo permitidas.",module,frontend/Mgs/claue
 Add Invitee,Añadir Invitado,module,frontend/Mgs/claue
 Send Email,Enviar correo electrónico,module,frontend/Mgs/claue
-Account Navigation,Navegación por la cuenta,module,frontend/Mgs/claue
+Account Navigation,Perfil de Comprador,module,frontend/Mgs/claue
 Toggle Menu,Menú de palanca,module,frontend/Mgs/claue
 Menu,Menú,module,frontend/Mgs/claue
 Account,Cuenta,module,frontend/Mgs/claue
@@ -25154,3 +25154,4 @@ Write Your Own Feedback,Escriba su propia reseña,module,frontend/Mgs/claue
 How do you rate this Store?,Califique ésta tienda,module,frontend/Mgs/claue
 "SELLER'S COLLECTION",Colección del Vendedor,module,frontend/Mgs/claue
 How To,Instructivo,module,frontend/Mgs/claue
+Marketplace Profile,Perfil de Vendedor,module,frontend/Mgs/claue
