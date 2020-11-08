@@ -24973,8 +24973,8 @@ Reviews,Reseñas,module,frontend/Mgs/claue
 Enter your destination to get a shipping estimate.,Ingrese su destino para obtener un precio estimado de envío.,module,frontend/Mgs/claue
 Becomer a Seller,Convertirse en vendedor,module,frontend/Mgs/claue
 Do You Want To Become A Seller / Vendor?,¿Quiere convertirse en Comerciante / Vendedor?,module,frontend/Mgs/claue
-Marketplace,Mercado,module,frontend/Mgs/claue
-Marketplace Dashboard,Panel de Mercado,module,frontend/Mgs/claue
+Marketplace,Marketplace,module,frontend/Mgs/claue
+Marketplace Dashboard,Panel de Marketplace,module,frontend/Mgs/claue
 Sales By Locations,Ventas por ubicaciones,module,frontend/Mgs/claue
 Ask Question to Admin,Hacer una pregunta al administrador,module,frontend/Mgs/claue
 Your Query,Su consulta,module,frontend/Mgs/claue
@@ -24987,7 +24987,7 @@ Latest Order,Último pedido,module,frontend/Mgs/claue
 Latest Comments & Reviews,Últimos comentarios y reseñas,module,frontend/Mgs/claue
 no comment & review available,No hay comentarios ó reseñas disponibles,module,frontend/Mgs/claue
 Seller Profile,Perfil del vendedor,module,frontend/Mgs/claue
-Marketplace Edit Seller Profile,Mercado Editar perfil de vendedor,module,frontend/Mgs/claue
+Marketplace Edit Seller Profile,Editar perfil de Vendedor,module,frontend/Mgs/claue
 Save Profile,Guardar perfil,module,frontend/Mgs/claue
 1. Profile Information,1. Información del perfil,module,frontend/Mgs/claue
 "(Enter Meta Keywords Comma(',') Separated..)","(Ingrese los Metadatos separados por coma(','))",module,frontend/Mgs/claue
@@ -25009,7 +25009,7 @@ Create Attribute,Crear atributo,module,frontend/Mgs/claue
 Catalog Input Type,Tipo de entrada de catálogo,module,frontend/Mgs/claue 
 Manage Configurable Product's Attribute,Gestionar el atributo del producto configurable,module,frontend/Mgs/claue
 Create Attribute for Configurable Products,Crear atributo para productos configurables,module,frontend/Mgs/claue
-Marketplace Add New Product,Mercado Agregar nuevo producto,module,frontend/Mgs/claue
+Marketplace Add New Product,Agregar Nuevo Producto Marketplace,module,frontend/Mgs/claue
 CATEGORIES,CATEGORIAS,module,frontend/Mgs/claue
 Special Price To,Precio especial para,module,frontend/Mgs/claue
 Allowed Product Qty on Product Purchase for Customer,Cantidad de producto permitida en la compra de productos para el cliente,module,frontend/Mgs/claue
@@ -25018,7 +25018,7 @@ Product Images,Imágenes del producto,module,frontend/Mgs/claue
 "Configurable products allow customers to choose options (Ex: shirt color).You need to create a simple product for each configuration (Ex: a product for each color).","Los productos configurables permiten a los clientes elegir opciones (por ejemplo, el color de la camisa). Necesita crear un producto simple para cada configuración (por ejemplo, un producto para cada color).",module,frontend/Mgs/claue
 These "impulse-buy" products appear next to the shopping cart as cross-sells to the items already in the shopping cart.,Estos productos de "compra por impulso" aparecen junto al carrito de compras como ventas cruzadas a los artículos que ya están en el carrito de compras.,module,frontend/Mgs/claue
 My Product List,Mi lista de productos,module,frontend/Mgs/claue
-Marketplace Product List,Lista de productos de Mercado,module,frontend/Mgs/claue
+Marketplace Product List,Lista de Productos Marketplace,module,frontend/Mgs/claue
 Product Status,Estado del producto,module,frontend/Mgs/claue
 Qty. Confirmed, Cant. Confirmada,module,frontend/Mgs/claue
 Qty. Pending,Cant Confirmada,module,frontend/Mgs/claue
@@ -25070,7 +25070,7 @@ This will be used to display your public profile,Esto se utilizará para mostrar
 Congratulations! Shop name is available,¡Felicidades! El nombre de la tienda está disponible,module,frontend/Mgs/claue
 Password,Contraseña,module,frontend/Mgs/claue
 Login,Iniciar Sesión,module,frontend/Mgs/claue
-Shop URL For Your Marketplace Shop,Sitio Web que usará para la Tienda,module,frontend/Mgs/claue
+Shop URL For Your Marketplace Shop,Sitio Web que usará el Marketplace,module,frontend/Mgs/claue
 My Products List, Mi Lista de Productos,module,frontend/Mgs/claue
 FLAT RATE, Tarifa,module,frontend/Mgs/claue
 Fixed,Fija,module,frontend/Mgs/claue
@@ -25127,7 +25127,7 @@ Your mail has been sent.,Su correo ha sido enviado.,module,frontend/Mgs/claue
 Become Seller,Convertirse en vendedor,module,frontend/Mgs/claue
 Seller Request Panel,Panel de solicitud del vendedor,module,frontend/Mgs/claue
 Please enter shop URL,Introduzca la URL de la tienda,module,frontend/Mgs/claue
-Marketplace Become Seller,Marketplace Convertirse en vendedor,module,frontend/Mgs/claue
+Marketplace Become Seller,Convertirse en Vendedor del Marketplace,module,frontend/Mgs/claue
 Do you want to become a seller / vendor ?,Quiere convertirse en Comerciante / Vendedor ?,module,frontend/Mgs/claue
 Report Product,Reportar producto,module,frontend/Mgs/claue
 "%1 Products","%1 productos",module,frontend/Mgs/claue
