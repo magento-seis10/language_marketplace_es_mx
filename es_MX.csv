@@ -24912,7 +24912,7 @@ Learn More,Aprende más,module,frontend/Mgs/claue
 We found other products you might like!,Encontramos otros productos que te pueden gustar!,module,frontend/Mgs/claue
 More Choices:,Más elecciones:,module,frontend/Mgs/claue
 Loading...,Cargando...,module,frontend/Mgs/claue
-Write Your Review,Escribe tu reseña,module,frontend/Mgs/claue
+"Write Your Review","Escribe tu reseña",module,frontend/Mgs/claue
 Enter your name,Introduzca su nombre,module,frontend/Mgs/claue
 Enter your Email,Introduce tu correo electrónico,module,frontend/Mgs/claue
 Enter your Number phone,Introduzca su número de teléfono,module,frontend/Mgs/claue
@@ -24990,7 +24990,7 @@ Seller Profile,Perfil del vendedor,module,frontend/Mgs/claue
 Marketplace Edit Seller Profile,Editar perfil de Vendedor,module,frontend/Mgs/claue
 Save Profile,Guardar perfil,module,frontend/Mgs/claue
 1. Profile Information,1. Información del perfil,module,frontend/Mgs/claue
-"(Enter Meta Keywords Comma(',') Separated..)","(Ingrese los Metadatos separados por coma(','))",module,frontend/Mgs/claue
+"Enter Meta Keywords Comma(',') Separated..","Ingrese los Metadatos separados por coma(',')",module,frontend/Mgs/claue
 Benny's Place,La Tienda de Benny,module,frontend/Mgs/claue
 Shop Title,Título de la tienda,module,frontend/Mgs/claue
 Company Banner,Banner de la empresa,module,frontend/Mgs/claue
@@ -25016,7 +25016,7 @@ Allowed Product Qty on Product Purchase for Customer,Cantidad de producto permit
 "By default %1 qty will be allowed for customer to add in cart.","Por defecto, se permitirá que el cliente agregue %1 cantidades en el carrito de compras.",module,frontend/Mgs/claue
 Product Images,Imágenes del producto,module,frontend/Mgs/claue
 "Configurable products allow customers to choose options (Ex: shirt color).You need to create a simple product for each configuration (Ex: a product for each color).","Los productos configurables permiten a los clientes elegir opciones (por ejemplo, el color de la camisa). Necesita crear un producto simple para cada configuración (por ejemplo, un producto para cada color).",module,frontend/Mgs/claue
-These "impulse-buy" products appear next to the shopping cart as cross-sells to the items already in the shopping cart.,Estos productos de "compra por impulso" aparecen junto al carrito de compras como ventas cruzadas a los artículos que ya están en el carrito de compras.,module,frontend/Mgs/claue
+These "impulse-buy" products appear next to the shopping cart as cross-sells to the items already in the shopping cart.,Estos productos de "compra por impulso" aparecen junto al carrito de compras como ventas cruzadas son artículos complementarios a los productos seleccionados.,module,frontend/Mgs/claue
 My Product List,Mi lista de productos,module,frontend/Mgs/claue
 Marketplace Product List,Lista de Productos Marketplace,module,frontend/Mgs/claue
 Product Status,Estado del producto,module,frontend/Mgs/claue
@@ -25066,8 +25066,8 @@ Feed Summary,Resumen de la reseña,module,frontend/Mgs/claue
 Feed Review,Revisión de la reseña,module,frontend/Mgs/claue
 Account,Cuenta,module,frontend/Mgs/claue 
 Shop URL,Sitio Web de la Tienda,module,frontend/Mgs/claue
-This will be used to display your public profile,Esto se utilizará para mostrar su perfil público,module,frontend/Mgs/claue
-Congratulations! Shop name is available,¡Felicidades! El nombre de la tienda está disponible,module,frontend/Mgs/claue
+" (This will be used to display your public profile) "," Esto se utilizará para mostrar su perfil público ",module,frontend/Mgs/claue
+"Congratulations! Shop name is available.","¡Felicidades! El nombre de la tienda está disponible",module,frontend/Mgs/claue
 Password,Contraseña,module,frontend/Mgs/claue
 Login,Iniciar Sesión,module,frontend/Mgs/claue
 Shop URL For Your Marketplace Shop,Sitio Web que usará el Marketplace,module,frontend/Mgs/claue
@@ -25104,7 +25104,7 @@ View All Reviews,Ver todas las reseñas,module,frontend/Mgs/claue
 positive feedback,retroalimentación positiva,module,frontend/Mgs/claue
 "Average Price Rating (%1)","Precio promedio (%1)",module,frontend/Mgs/claue
 "Average Value Rating (%1)","Valor promedio (%1)",module,frontend/Mgs/claue
-"Average Quality Rating (%1)","Calidad media (%1)",module,frontend/Mgs/claue
+"Average Quality Rating (%1)","Calidad promedio (%1)",module,frontend/Mgs/claue
 Star,Estrella,module,frontend/Mgs/claue
 "The coupon code "%1" is not valid.","El código de cupón "% 1" no es válido.",module,frontend/Mgs/claue
 "Check / Money order","Check / Money order",module,frontend/Mgs/claue
@@ -25157,3 +25157,8 @@ How To,Instructivo,module,frontend/Mgs/claue
 Marketplace Profile,Perfil de Vendedor,module,frontend/Mgs/claue
 "Search sellers by shop name from here","Busca proveedor por su nombre",module,Webkul_Marketplace
 "No Seller Available","Sin proveedor disponible",module,Webkul_Marketplace
+"Please Complete","Por favor completa",module,Webkul_Marketplace
+"Your Profile","tú perfil",module,Webkul_Marketplace
+"Enter description that shows on link preview","Escribe la descripción que se muestra al compartir el enlace",module,Webkul_Marketplace
+"Enter title that shows on link preview","Escribe el titulo que se muestra al compartir el enlace",module,Webkul_Marketplace
+"Write Your Review","Escribe tu reseña",module,Webkul_Marketplace
