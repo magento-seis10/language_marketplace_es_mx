@@ -10241,6 +10241,10 @@ Your Tax ID cannot be validated.,Su ID de impuestos no se ha podido validar.,mod
 Your VAT ID was successfully validated.,Su ID de IVA se ha validado correctamente.,module,Magento_Customer
 ZIP,C.P,module,Magento_Customer
 Zip/Postal Code,Código Postal,module,Magento_Customer
+"Forgot your account password? Click in the following link.","¿Olvidaste la contraseña de tu cuenta? Haga clic en el siguiente enlace.",module,Magento_Customer
+"To log into our site, please use the following account details at the link below.","Para iniciar sesión en nuestro sitio, utilice los siguientes detalles de la cuenta en el enlace a continuación.",module,Magento_Customer
+"To sign in to our site and set a password, click at the link below.","Para iniciar sesión en nuestro sitio y establecer una contraseña, haga clic en el enlace de abajo.",module,Magento_Customer
+"If you requested this change, set a new password here:","Si solicitó este cambio, establezca una nueva contraseña aquí:",module,Magento_Customer
 "%name,","%name,",module,Magento_CustomerBalance
 A balance is needed to save a balance history.,A balance is needed to save a balance history.,module,Magento_CustomerBalance
 Action,Acción,module,Magento_CustomerBalance
@@ -17756,6 +17760,15 @@ Your shipping confirmation is below. Thank you again for your business.,La confi
 ZIP Code,Código postal,module,Magento_Sales
 ZIP/Post Code,Código Postal,module,Magento_Sales
 Zip/Postal Code,Código Postal,module,Magento_Sales
+Your shipping confirmation is below. Thank you again for your business.,La confirmación de su envío está abajo. Gracias otra vez por su compra.,module,Magento_Sales
+ZIP Code,Código postal,module,Magento_Sales
+ZIP/Post Code,Código Postal,module,Magento_Sales
+Zip/Postal Code,Código Postal,module,Magento_Sales
+"You can check the status of your order by logging into your account in the following link.","Puede comprobar el estado de su pedido iniciando sesión en su cuenta en la siguiente liga.",module,Magento_Sales 
+"If you have questions about your order, you can email us at ","Si tiene preguntas sobre su pedido, puede enviarnos un correo electrónico a ",module,Magento_Sales
+"or call us at ","o llámanos al ",module,Magento_Sales
+"Your Order ","Su pedido ",module,Magento_Sales
+"Placed on ","Realizado el ",module,Magento_Sales
 Add,Agregar,module,Magento_SalesArchive
 Adjustment Fee,Recargo de una corrección,module,Magento_SalesArchive
 Adjustment Refund,Reembolso de una corrección,module,Magento_SalesArchive
