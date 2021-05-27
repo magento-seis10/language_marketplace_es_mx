@@ -24664,7 +24664,7 @@ From:,De:,module,frontend/Mgs/claue
 To:,A:,module,frontend/Mgs/claue
 Message:,Mensaje:,module,frontend/Mgs/claue
 N/A,N / A,module,frontend/Mgs/claue
-Product Name,nombre del producto,module,frontend/Mgs/claue
+Product Name,Nombre del producto,module,frontend/Mgs/claue
 Price,Precio,module,frontend/Mgs/claue
 Subtotal,Total parcial,module,frontend/Mgs/claue
 Discount Amount,Importe de descuento,module,frontend/Mgs/claue
@@ -24873,14 +24873,14 @@ Ship To,Envie a,module,frontend/Mgs/claue
 Order Total,Total del pedido,module,frontend/Mgs/claue
 Reorder,Reordenar,module,frontend/Mgs/claue
 You have placed no orders.,No has realizado ningún pedido.,module,frontend/Mgs/claue
-Order Information,información del pedido,module,frontend/Mgs/claue
+Order Information,Información del Pedido,module,frontend/Mgs/claue
 Shipping Address,Dirección de Envío,module,frontend/Mgs/claue
-No shipping information available,No hay información disponible envío,module,frontend/Mgs/claue
+No shipping information available,No hay información disponible de envío,module,frontend/Mgs/claue
 About Your Order,Sobre su pedido,module,frontend/Mgs/claue
 "Shipment #%1","Envío #%1",module,frontend/Mgs/claue
 Recent Orders,órdenes recientes,module,frontend/Mgs/claue
 Action,Acción,module,frontend/Mgs/claue
-Items Ordered,artículos ordenados,module,frontend/Mgs/claue
+Items Ordered,Artículos Ordenados,module,frontend/Mgs/claue
 Gift Message for This Order,Mensaje de regalos para esta orden,module,frontend/Mgs/claue
 Recently Ordered,ordenó recientemente,module,frontend/Mgs/claue
 Last Ordered Items,Últimos artículos ordenados,module,frontend/Mgs/claue
@@ -25025,7 +25025,7 @@ Create Attribute for Configurable Products,Crear atributo para productos configu
 Marketplace Add New Product,Agregar Nuevo Producto Marketplace,module,frontend/Mgs/claue
 CATEGORIES,CATEGORIAS,module,frontend/Mgs/claue
 Special Price To,Precio especial para,module,frontend/Mgs/claue
-Allowed Product Qty on Product Purchase for Customer,Cantidad de producto permitida en la compra de productos para el cliente,module,frontend/Mgs/claue
+Allowed Product Qty on Product Purchase for Customer,Define el mínimo de Pedido por Compra,module,frontend/Mgs/claue
 "By default %1 qty will be allowed for customer to add in cart.","Por defecto, se permitirá que el cliente agregue %1 cantidades en el carrito de compras.",module,frontend/Mgs/claue
 Product Images,Imágenes del producto,module,frontend/Mgs/claue
 "Configurable products allow customers to choose options (Ex: shirt color).You need to create a simple product for each configuration (Ex: a product for each color).","Los productos configurables permiten a los clientes elegir opciones (por ejemplo, el color de la camisa). Necesita crear un producto simple para cada configuración (por ejemplo, un producto para cada color).",module,frontend/Mgs/claue
@@ -25085,7 +25085,7 @@ Password,Contraseña,module,frontend/Mgs/claue
 Login,Iniciar Sesión,module,frontend/Mgs/claue
 Shop URL For Your Marketplace Shop,Sitio Web que usará el Marketplace,module,frontend/Mgs/claue
 My Products List, Mi Lista de Productos,module,frontend/Mgs/claue
-FLAT RATE, Tarifa,module,frontend/Mgs/claue
+Flat Rate,Tarifa,module,frontend/Mgs/claue
 Fixed,Fija,module,frontend/Mgs/claue
 Flat Rate - Fixed,Tarifa - Fija,frontend/Mgs/claue
 Sold By,Vendido por,frontend/Mgs/claue
@@ -25097,7 +25097,7 @@ Report Product,Reportar producto,module,frontend/Mgs/claue
 Choose an appropriate reason to flag,Elija una razón adecuada para marcar,module,frontend/Mgs/claue
 Other,Otro,module,frontend/Mgs/claue
 Write a reason to flag this product,Escriba un motivo para reportar este producto,module,frontend/Mgs/claue
-"If you created this account using Amazon Pay, you might not know your site password","Si creó esta cuenta con Amazon Pay, es posible que no sepa la contraseña de su sitio",module,frontend/Mgs/claue
+"If you created this account using Amazon Pay, you might not know your site password.","Si creó esta cuenta con Amazon Pay, es posible que no sepa la contraseña de su sitio.",module,frontend/Mgs/claue
 Values Required,Valores requeridos,module,frontend/Mgs/claue
 Taxable Goods,Bienes sujetos a impuestos,module,frontend/Mgs/claue
 Refund Adjustments,Ajustes de reembolso,module,frontend/Mgs/claue
@@ -25146,7 +25146,7 @@ Report Product,Reportar producto,module,frontend/Mgs/claue
 "%1 Products","%1 productos",module,frontend/Mgs/claue
 Date Untill,Fecha hasta,module,frontend/Mgs/claue
 Download Packaging Slip,Descargar hoja de empaque,module,frontend/Mgs/claue
-"Order #%1","Pedido #% 1",module,frontend/Mgs/claue
+"Order #%1","Pedido #%1",module,frontend/Mgs/claue
 Order Date,Fecha de orden,module,frontend/Mgs/claue
 Login To Give Feedback,Inicie sesión para enviar comentarios,module,frontend/Mgs/claue
 Make a Review,Hacer una reseña,module,frontend/Mgs/claue
@@ -25155,7 +25155,7 @@ Make a Review,Hacer una reseña,module,frontend/Mgs/claue
 "3 Star (%1)","3 estrellas (%1)",module,frontend/Mgs/claue
 "2 Star (%1)","2 estrellas (%1)",module,frontend/Mgs/claue
 "1 Star (%1)","1 estrella (%1)",module,frontend/Mgs/claue
-Complete,Completar,module,frontend/Mgs/claue
+Complete,Completo,module,frontend/Mgs/claue
 Downloadable,Descargable,module,frontend/Mgs/claue
 Grouped Product,Producto Agrupado,module,frontend/Mgs/claue
 Bundle Product,Producto en Paquete,module,frontend/Mgs/claue
@@ -25175,3 +25175,45 @@ Marketplace Profile,Perfil de Vendedor,module,frontend/Mgs/claue
 "Enter description that shows on link preview","Escribe la descripción que se muestra al compartir el enlace",module,Webkul_Marketplace
 "Enter title that shows on link preview","Escribe el titulo que se muestra al compartir el enlace",module,Webkul_Marketplace
 "Write Your Review","Escribe tu reseña",module,Webkul_Marketplace
+Defines the maximum Order per Purchase,Define el mínimo de Pedido por Compra,module,frontend/Mgs/claue
+Order Details of Product,Detalles de pedidos del producto,module,frontend/Mgs/claue
+Make a Withdrawal,Has un retiro,module,frontend/Mgs/claue
+"Customer: ","Cliente: ",module,frontend/Mgs/claue
+"Date: ","Fecha: ",module,frontend/Mgs/claue"
+"Order Total (Base)- ","Total Pedido (Base)- ",module,frontend/Mgs/claue
+"Order Total (Purchased)- ","Total Pedido (Comprado)- ",module,frontend/Mgs/claue
+Data Access,Acceso a los datos,module,frontend/Mgs/claue
+Erase Account,Borrar cuenta,module,frontend/Mgs/claue
+Sumit,Enviar,module,frontend/Mgs/claue
+Order placed notification,Notificación de pedido realizado,module,frontend/Mgs/claue
+"Product(s) %s has been sold from your store with order id %s","El(los) producto(s) %s se ha vendido en su tienda con el ID de pedido %s",module,frontend/Mgs/claue
+Product approved,Producto aprobado,module,frontend/Mgs/claue
+Product disapproved,Producto rechazado,module,frontend/Mgs/claue
+Cancel Order,Cancelar Pedido,module,frontend/Mgs/claue
+"Manage Order #%1","Gestionar Pedido #%1",module,frontend/Mgs/claue
+"<span class="label">Order Date:</span> %1","<span class="label">Fecha Pedido:</span> %1",module,frontend/Mgs/claue
+Send Email To Customer,Enviar correo electrónico al cliente,module,frontend/Mgs/claue
+Create Invoice to confirm collected amount from buyer for this order,Cree una factura para confirmar el monto cobrado por el comprador para este pedido,module,frontend/Mgs/claue
+Print,Imprimir,module,frontend/Mgs/claue
+Send Email,Envíar correo electrónico,module,frontend/Mgs/claue
+Invoice,Factura,module,frontend/Mgs/claue
+Pay Admin for his commission for this order,Pague al administrador su comisión por este pedido,module,frontend/Mgs/claue
+Pay Admin Commission,Pagar comisión administrativa,module,frontend/Mgs/claue
+Create Credit Memo,Crear Nota de Crédito,module,frontend/Mgs/claue
+Credit Memo,Nota de Crédito,module,frontend/Mgs/claue
+Create Shipment for Order,Crear envío para pedido,module,frontend/Mgs/claue
+Ship,Enviar,module,frontend/Mgs/claue
+Customer Name,Nombre del cliente,module,frontend/Mgs/claue
+"Are you sure you want to create shipment?","Estás seguro de que quieres crear el envío?",module,frontend/Mgs/claue
+This section of the site is designed to be used on desktop.,Esta sección del sitio está diseñada para usarse solo en PC.,module,frontend/Mgs/claue
+Attribute Created Successfully,Atributo creado con éxito,module,frontend/Mgs/claue 
+The order has been cancelled.El pedido ha sido cancelado.,module,frontend/Mgs/claue
+Payment & Shipping Method,Método de pago y envío,module,frontend/Mgs/claue
+New Credit Memo,Nueva Orden de Crédito,module,frontend/Mgs/claue
+View All Memos,Ver todas las notas,module,frontend/Mgs/claue
+Creditmemo List,Lista de créditos,module,frontend/Mgs/claue
+Maximum Purchase,Máximo Compra,module,frontend/Mgs/claue
+Offers Guarantee,Ofrece Garantía,module,frontend/Mgs/claue
+Warranty Conditions,Condiciones Garantía,module,frontend/Mgs/claue
+Offer Sample,Ofrece Muestra,module,frontend/Mgs/claue
+Define the applicable warranty conditions,Define las condiciones de garantía aplicables,module,frontend/Mgs/claue
