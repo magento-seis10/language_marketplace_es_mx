@@ -24676,8 +24676,8 @@ Canceled,Cancelado,module,frontend/Mgs/claue
 Refunded,Reintegrado,module,frontend/Mgs/claue
 Qty Shipped,Cantidad Enviado,module,frontend/Mgs/claue
 Related Products,Productos relacionados,module,frontend/Mgs/claue
-Upsell Products,Productos de aumentar las ventas,module,frontend/Mgs/claue
-Upsell products,productos de aumentar las ventas,module,frontend/Mgs/claue
+Upsell Products,Productos Complementarios,module,frontend/Mgs/claue
+Upsell products,Productos Complementarios,module,frontend/Mgs/claue
 More Choices,Más elecciones,module,frontend/Mgs/claue
 New Products,Nuevos productos,module,frontend/Mgs/claue
 Check items to add to the cart or,Comprueba los productos para añadir al carro o,module,frontend/Mgs/claue
@@ -25042,7 +25042,7 @@ From:,Desde,frontend/Mgs/claue
 To:,Hasta:,frontend/Mgs/claue
 Earned Amount, Ganancia Obtenida,module,frontend/Mgs/claue
 My Transaction List,Mi lista de transacciones,module,frontend/Mgs/claue
-Statement,Declaración,module,frontend/Mgs/claue
+Statement,Ganancias Netas,module,frontend/Mgs/claue
 Total Sale,Venta total,module,frontend/Mgs/claue
 Commission,Comisión,module,frontend/Mgs/claue
 Total Seller earning, Ganancia Total,frontend/Mgs/claue
@@ -25177,7 +25177,7 @@ Marketplace Profile,Perfil de Vendedor,module,frontend/Mgs/claue
 "Write Your Review","Escribe tu reseña",module,Webkul_Marketplace
 Defines the maximum Order per Purchase,Define el mínimo de Pedido por Compra,module,frontend/Mgs/claue
 Order Details of Product,Detalles de pedidos del producto,module,frontend/Mgs/claue
-Make a Withdrawal,Has un retiro,module,frontend/Mgs/claue
+Make a Withdrawal,Cobrar tus ganancias,module,frontend/Mgs/claue
 "Customer: ","Cliente: ",module,frontend/Mgs/claue
 "Date: ","Fecha: ",module,frontend/Mgs/claue"
 "Order Total (Base)- ","Total Pedido (Base)- ",module,frontend/Mgs/claue
@@ -25217,3 +25217,15 @@ Offers Guarantee,Ofrece Garantía,module,frontend/Mgs/claue
 Warranty Conditions,Condiciones Garantía,module,frontend/Mgs/claue
 Offer Sample,Ofrece Muestra,module,frontend/Mgs/claue
 Define the applicable warranty conditions,Define las condiciones de garantía aplicables,module,frontend/Mgs/claue
+Accept Returns,Acepta Devoluciones,module,frontend/Mgs/claue
+Return Conditions,Condiciones para Devoluciones,module,frontend/Mgs/claue
+Define the applicable return conditions,Definir las condiciones de devoluciones aplicables,module,frontend/Mgs/claue
+Specify Weight,Especifique el Peso,module,frontend/Mgs/claue
+"Enter Weight Comma(',') Separated.","Ingrese el peso separado por coma(',').",module,frontend/Mgs/claue
+Base,Principal,module,frontend/Mgs/claue
+Small,Pequeño,module,frontend/Mgs/claue
+Thumbnail,Miniatura,module,frontend/Mgs/claue
+Admin,Identificador para Mylo,module,frontend/Mgs/claue
+Default Store View,Título visible en la tienda,module,frontend/Mgs/claue
+Is Default,"¿Es valor default?",module,frontend/Mgs/claue
+Information was successfully saved,La información se guardó correctamente,module,frontend/Mgs/claue
