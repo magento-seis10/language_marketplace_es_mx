@@ -24556,9 +24556,9 @@ Leave A Reply,Deja una respuesta,module,frontend/Mgs/claue
 Your email address will not be published. Required fields are marked,Su dirección de correo electrónico no será publicada. Los campos necesarios están marcados,module,frontend/Mgs/claue
 Your comment,Tu comentario,module,frontend/Mgs/claue
 Content,Contenido,module,frontend/Mgs/claue
-Your name,Tu nombre,module,frontend/Mgs/claue
+Your Name,Su Nombre,module,frontend/Mgs/claue
 Name,Nombre,module,frontend/Mgs/claue
-Your email,Tu correo electrónico,module,frontend/Mgs/claue
+Your Email,Su Correo Electrónico,module,frontend/Mgs/claue
 Email,Correo Electrónico,module,frontend/Mgs/claue
 Send Messeages,Messeages de envío,module,frontend/Mgs/claue
 You must be logged in to post a comment.,Usted debe ser conectado para escribir un comentario.,module,frontend/Mgs/claue
@@ -25229,3 +25229,28 @@ Admin,Identificador para Mylo,module,frontend/Mgs/claue
 Default Store View,Título visible en la tienda,module,frontend/Mgs/claue
 Is Default,"¿Es valor default?",module,frontend/Mgs/claue
 Information was successfully saved,La información se guardó correctamente,module,frontend/Mgs/claue
+Question List,Lista de Consultas,module,frontend/Mgs/claue
+No Questions Available,No hay Consultas disponibles,module,frontend/Mgs/claue
+Manage MPQA,Administrar Consultas,module,frontend/Mgs/claue
+Sign In to your account,Iniciar sesión en su cuenta,module,frontend/Mgs/claue
+Sign Up as a new customer,Regístrese como nuevo cliente,module,frontend/Mgs/claue
+Name to Display,Nombre para mostrar,module,frontend/Mgs/claue
+Ask Question,Hacer Consulta,module,frontend/Mgs/claue
+View Q/A,Ver Consultas,module,frontend/Mgs/claue
+Give Answer,Dar Respuesta,module,frontend/Mgs/claue
+Buyer Question,Pregunta del comprador,module,frontend/Mgs/claue
+Product Name:,Nombre del producto:,module,frontend/Mgs/claue
+Product Description:,Descripción del producto:,module,frontend/Mgs/claue
+Buyer,Comprador,module,frontend/Mgs/claue
+Post your answer,Publica tu respuesta,module,frontend/Mgs/claue
+Search or Ask Question,Buscar o hacer una Consulta,module,frontend/Mgs/claue
+"by ",,"Por ",module,frontend/Mgs/claue
+" on ",," en ",module,frontend/Mgs/claue
+Most Helpful,Más útil,module,frontend/Mgs/claue
+Most Recent,Más reciente,module,frontend/Mgs/claue
+Answers,Respuestas,module,frontend/Mgs/claue
+Questions,Consultas,module,frontend/Mgs/claue
+Seller,Vendedor,module,frontend/Mgs/claue
+Displaying Questions,Visualización de Consultas,module,frontend/Mgs/claue
+View More,Ver Más,module,frontend/Mgs/claue
+Your Answer,Tu Respuesta,module,frontend/Mgs/claue
