@@ -25221,7 +25221,7 @@ Accept Returns,Acepta Devoluciones,module,frontend/Mgs/claue
 Return Conditions,Condiciones para Devoluciones,module,frontend/Mgs/claue
 Define the applicable return conditions,Definir las condiciones de devoluciones aplicables,module,frontend/Mgs/claue
 Specify Weight,Especifique el Peso,module,frontend/Mgs/claue
-"Enter Weight Comma(',') Separated.","Ingrese el peso separado por coma(',').",module,frontend/Mgs/claue
+"Enter Weight Separated by Dot('.')","Ingrese el peso separado por punto('.')",module,frontend/Mgs/claue
 Base,Principal,module,frontend/Mgs/claue
 Small,Pequeño,module,frontend/Mgs/claue
 Thumbnail,Miniatura,module,frontend/Mgs/claue
@@ -25254,3 +25254,7 @@ Seller,Vendedor,module,frontend/Mgs/claue
 Displaying Questions,Visualización de Consultas,module,frontend/Mgs/claue
 View More,Ver Más,module,frontend/Mgs/claue
 Your Answer,Tu Respuesta,module,frontend/Mgs/claue
+"Your price must include VAT and the percentage of additional taxes, such as IEPS, among others)","Tu precio debe incluir el IVA y el porcentaje de impuestos adicionales, como IEPS, entre otros)",module,frontend/Mgs/claue
+"Your price must include VAT ","Tu precio debe incluir IVA ",module,frontend/Mgs/claue
+"and the percentage of additional taxes, ","y el porcentaje de impuestos adicionales, ",module,frontend/Mgs/claue
+"such as IEPS, among others)","como IEPS, entre otros)",module,frontend/Mgs/claue
