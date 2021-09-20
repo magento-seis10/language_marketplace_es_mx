@@ -10081,7 +10081,7 @@ Suffix Dropdown Options,Opciones para listas desplegables con sufijo,module,Mage
 Tax Calculation Based On,Cálculo tributario basado en,module,Magento_Customer
 Tax Class,Clase impositiva,module,Magento_Customer
 Tax VAT Number,Número de IVA de impuesto,module,Magento_Customer
-"Tax/VAT number","RFC (RegistroFederal de Contribuyentes)",module,Magento_Customer
+"Tax/VAT number","RFC (Registro Federal de Contribuyentes)",module,Magento_Customer
 Text,Texto,module,Magento_Customer
 Text One Line,Text One Line,module,Magento_Customer
 "Thank you for confirming your %store_name account.","Gracias por confirmar su cuenta en %store_name.",module,Magento_Customer
@@ -24943,7 +24943,7 @@ Back to Sign In,Volver a entrar,module,frontend/Mgs/claue
 Street Address 1,Dirección Calle 1,module,frontend/Mgs/claue
 "Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","La creación de una cuenta tiene muchos beneficios: Salida mayor rapidez, manteniendo más de una dirección, seguimiento de pedidos y mucho más.",module,frontend/Mgs/claue
 Gender,Género,module,frontend/Mgs/claue
-"Tax/VAT number","RFC (RegistroFederal de Contribuyentes)",module,frontend/Mgs/claue
+"Tax/VAT number","RFC (Registro Federal de Contribuyentes)",module,frontend/Mgs/claue
 Currency,Moneda,module,frontend/Mgs/claue
 All Categories,todas las categorias,module,frontend/Mgs/claue
 Search entire store here...,Busca la tienda entera aquí...,module,frontend/Mgs/claue
