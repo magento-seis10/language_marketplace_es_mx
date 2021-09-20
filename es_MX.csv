@@ -9962,7 +9962,7 @@ Please enter a last name.,Introduzca un apellido.,module,Magento_Customer
 "Please enter a number 1 or greater in this field.","Por favor, introduzca número 1 o mayor en este campo.",module,Magento_Customer
 "Please enter a password with at least %1 characters.","Por favor, introduzca una contraseña con al menos %1 caracteres.",module,Magento_Customer
 "Please enter a password with at most %1 characters.","Por favor, introduzca una contraseña con un máximo de %1 caracteres.",module,Magento_Customer
-Please enter a TAX/VAT number.,Introduzca un número de IMPUESTOS / IVA.,module,Magento_Customer
+"Please enter a TAX/VAT number.","Introduzca su RFC.",module,Magento_Customer
 "Please enter a valid date between %1 and %2 at %3.","Por favor introduzca una fecha válida entre %1 y %2 en %3.",module,Magento_Customer
 "Please enter a valid date equal to or greater than %1 at %2.","Por favor introduzca una fecha válida igual o mayor que %1 en %2.",module,Magento_Customer
 "Please enter a valid date less than or equal to %1 at %2.","Por favor introduzca una fecha válida menos o igual a %1 en %2.",module,Magento_Customer
@@ -10043,7 +10043,7 @@ Show Gender,Mostrar sexo,module,Magento_Customer
 Show Middle Name (initial),Mostrar segundo nombre (inicial),module,Magento_Customer
 Show Prefix,Mostrar prefijo,module,Magento_Customer
 Show Suffix,Mostrar sufijo,module,Magento_Customer
-Show Tax/VAT Number,Mostrar número de IVA/impuestos,module,Magento_Customer
+"Show Tax/VAT Number","Mostrar RFC",module,Magento_Customer
 Show Telephone,Mostrar Telefono,module,Magento_Customer
 Show VAT Number on Storefront,Mostrar número de IVA en tienda,module,Magento_Customer
 Sign In,Iniciar Sesión,module,Magento_Customer
@@ -10081,7 +10081,7 @@ Suffix Dropdown Options,Opciones para listas desplegables con sufijo,module,Mage
 Tax Calculation Based On,Cálculo tributario basado en,module,Magento_Customer
 Tax Class,Clase impositiva,module,Magento_Customer
 Tax VAT Number,Número de IVA de impuesto,module,Magento_Customer
-Tax/VAT number,Número de IVA/impuestos,module,Magento_Customer
+"Tax/VAT number","RFC (Registro Federal de Contribuyentes)",module,Magento_Customer
 Text,Texto,module,Magento_Customer
 Text One Line,Text One Line,module,Magento_Customer
 "Thank you for confirming your %store_name account.","Gracias por confirmar su cuenta en %store_name.",module,Magento_Customer
@@ -24943,7 +24943,7 @@ Back to Sign In,Volver a entrar,module,frontend/Mgs/claue
 Street Address 1,Dirección Calle 1,module,frontend/Mgs/claue
 "Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","La creación de una cuenta tiene muchos beneficios: Salida mayor rapidez, manteniendo más de una dirección, seguimiento de pedidos y mucho más.",module,frontend/Mgs/claue
 Gender,Género,module,frontend/Mgs/claue
-Tax/VAT number,Clave RFC / IVA,module,frontend/Mgs/claue
+"Tax/VAT number","RFC (Registro Federal de Contribuyentes)",module,frontend/Mgs/claue
 Currency,Moneda,module,frontend/Mgs/claue
 All Categories,todas las categorias,module,frontend/Mgs/claue
 Search entire store here...,Busca la tienda entera aquí...,module,frontend/Mgs/claue
@@ -25258,3 +25258,35 @@ Your Answer,Tu Respuesta,module,frontend/Mgs/claue
 "Your price must include VAT ","Tu precio debe incluir IVA ",module,frontend/Mgs/claue
 "and the percentage of additional taxes, ","y el porcentaje de impuestos adicionales, ",module,frontend/Mgs/claue
 "such as IEPS, among others)","como IEPS, entre otros)",module,frontend/Mgs/claue
+Your product has been successfully saved,Tu producto se ha guardado correctamente,module,frontend/Mgs/claue
+Merchandise Detail,Detalle de Mercancía,module,frontend/Mgs/claue
+Scope of Distribution,Alcance de Distribución,module,frontend/Mgs/claue
+Stock Type,Tipo de Stock,module,frontend/Mgs/claue
+Type of Merchandise,Tipo de Mercancía,module,frontend/Mgs/claue
+Production Type,Tipo de Produccion,module,frontend/Mgs/claue
+Productive Process,Proceso Productivo,module,frontend/Mgs/claue
+Distribution Strategy,Estrategia de Distribución,module,frontend/Mgs/claue
+Total Number of Packages per Minimum Order,Número Total de Paquetes por Pedido Mínimo,module,frontend/Mgs/claue
+Package measurements (Length x Width x Height),Medidas del Paquete (largo x ancho x alto),module,frontend/Mgs/claue
+Minimum Order Total Weight,Peso Total del Pedido Mínimo,module,frontend/Mgs/claue
+Packaging Features,Características de Empaque,module,frontend/Mgs/claue
+"Extensive, covering the maximum number of points of sale possible, without prior filtration","Extensivo, abarcar el máximo número de puntos de ventas posible, sin previa filtración",module,frontend/Mgs/claue
+"Intensive, distribute the merchandise in points of sale related to the same commercial branch","Intensivo, distribuir la mercancía en puntos de venta relacionados con la misma rama comercial",module,frontend/Mgs/claue
+"Selective, select partners based on geographic, demographic or practical criteria","Selectivo, seleccionar aliados en base a criterios geográficos, demográficos o prácticos",module,frontend/Mgs/claue
+"Exclusive, choose very exclusive and limited points of sale","Exclusivo, escoger puntos de ventas muy exclusivos y limitados",module,frontend/Mgs/claue
+"Industrial","Industrial",module,frontend/Mgs/claue
+"Handcrafted","Artesanal",module,frontend/Mgs/claue
+"Mass","En Masa",module,frontend/Mgs/claue
+"By order","Por orden",module,frontend/Mgs/claue
+"Continuous flow","Flujo continuo",module,frontend/Mgs/claue
+"Perishable, expires quickly","Perecedero, caduca rápidamente",module,frontend/Mgs/claue
+"Non-perishable, expires slowly or does not expire","No perecedero, caduca lentamente o no caduca",module,frontend/Mgs/claue
+"In stock","Con stock",module,frontend/Mgs/claue
+"Out of stock","Sin Stock",module,frontend/Mgs/claue
+"On request","Por encargo",module,frontend/Mgs/claue
+"Local","Local",module,frontend/Mgs/claue
+"Local, Regional","Local, regional",module,frontend/Mgs/claue
+"Local, Regional, National","Local, Regional, Nacional",module,frontend/Mgs/claue
+"All the world","Todo el mundo",module,frontend/Mgs/claue
+"International only","Internacional únicamente",module,frontend/Mgs/claue
+"Select an option","Selecciona una opción",module,frontend/Mgs/claue
