@@ -25290,3 +25290,213 @@ Packaging Features,Características de Empaque,module,frontend/Mgs/claue
 "All the world","Todo el mundo",module,frontend/Mgs/claue
 "International only","Internacional únicamente",module,frontend/Mgs/claue
 "Select an option","Selecciona una opción",module,frontend/Mgs/claue
+"Save Shipping","Guardar detalles de Envío",module,frontend/Mgs/claue
+"Edit Rule","Editar regla",module,frontend/Mgs/claue
+"New Rule","Nueva regla",module,frontend/Mgs/claue
+"Shipping Set Information","Información del conjunto de envío",module,frontend/Mgs/claue
+"Price From","Precio desde",module,frontend/Mgs/claue
+"Price To","Precio hasta",module,frontend/Mgs/claue
+"Distance From","Distancia desde",module,frontend/Mgs/claue
+"Distance To","Distancia a",module,frontend/Mgs/claue
+"Method Name","Nombre del método",module,frontend/Mgs/claue
+"Seller","Vendedor",module,frontend/Mgs/claue
+"Price","Precio",module,frontend/Mgs/claue
+"Shipping Price","Precio de envío",module,frontend/Mgs/claue
+"Shipping Set Info","Información del conjunto de envío",module,frontend/Mgs/claue
+"Add Shipping","Agregar envío",module,frontend/Mgs/claue
+"CSV File","Archivo CSV",module,frontend/Mgs/claue
+"Upload CSV","Subir CSV",module,frontend/Mgs/claue
+"Shipping Data","Datos de envio",module,frontend/Mgs/claue
+"ID","Identificacion",module,frontend/Mgs/claue
+"Name","Nombre",module,frontend/Mgs/claue
+"Destination Country","pais de destino",module,frontend/Mgs/claue
+"Destination Region","Región de destino",module,frontend/Mgs/claue
+"Zip Code From","Código postal desde",module,frontend/Mgs/claue
+"Zip Code To","Código postal para",module,frontend/Mgs/claue
+"Weight From","Peso desde",module,frontend/Mgs/claue
+"Weight To","Peso hasta",module,frontend/Mgs/claue
+"Numeric Zipcode","Código postal numérico",module,frontend/Mgs/claue
+"Alphanumeric Zipcode","Código postal alfanumérico",module,frontend/Mgs/claue
+"Sub Method Name","Nombre del submétodo",module,frontend/Mgs/claue
+"Delete","Borrar",module,frontend/Mgs/claue
+"Are you sure?","¿Está seguro?",module,frontend/Mgs/claue
+"Shipping Information","Información de envío",module,frontend/Mgs/claue
+"Shipping Detail","Detalle de envio",module,frontend/Mgs/claue
+"Admin","Administración",module,frontend/Mgs/claue
+"Edit Shipping Rule","Editar regla de envío",module,frontend/Mgs/claue
+"New Shipping Rule","Nueva regla de envío",module,frontend/Mgs/claue
+"Shipping Rule Information","Información de la regla de envío",module,frontend/Mgs/claue
+"Country code","Código de país",module,frontend/Mgs/claue
+"Region code","Código de región",module,frontend/Mgs/claue
+"Weight from","Peso de",module,frontend/Mgs/claue
+"Zip From","Zip desde",module,frontend/Mgs/claue
+"Zip To","Zip a",module,frontend/Mgs/claue
+"Shipping Rule Info","Información de la regla de envío",module,frontend/Mgs/claue
+"Edit Shipping Set","Editar conjunto de envío",module,frontend/Mgs/claue
+"New Shipping Set","Nuevo conjunto de envío",module,frontend/Mgs/claue
+"Shipping Type","Tipo de envío",module,frontend/Mgs/claue
+"This Shiiping Rule is no longer exists.","Esta regla de Shiiping ya no existe.",module,frontend/Mgs/claue
+"Shipping By Distance","Envío por distancia",module,frontend/Mgs/claue
+"A total of %1 record(s) have been deleted.","Se ha eliminado un total de %1 registro (s).",module,frontend/Mgs/claue
+"Price From can't be equal or more than Price To.","El precio desde no puede ser igual o superior al precio hasta.",module,frontend/Mgs/claue
+"Distance From can't be equal or more than Distance To.","La distancia desde no puede ser igual o mayor que la distancia a.",module,frontend/Mgs/claue
+"Price or Distance range already exist.","El rango de precio o distancia ya existe.",module,frontend/Mgs/claue
+"Shipping Rule Saved Successfully","Regla de envío guardada con éxito",module,frontend/Mgs/claue
+"Shipping Rule Successfully Updated","Regla de envío actualizada con éxito",module,frontend/Mgs/claue
+"This Shipping rule is no longer exists.","Esta regla de envío ya no existe.",module,frontend/Mgs/claue
+"Shipping Rule","Regla de envío",module,frontend/Mgs/claue
+"Marketplace Table Rate Shipping Manager","Gerente de envío de tarifas de mesa de Marketplace",module,frontend/Mgs/claue
+"Please select item(s).","Seleccione el (los) artículo (s).",module,frontend/Mgs/claue
+"Please upload CSV file","Sube el archivo CSV",module,frontend/Mgs/claue
+"Country code should be a string %1","El código de país debe ser una cadena %1",module,frontend/Mgs/claue
+"Country code can not be empty","El código de país no puede estar vacío",module,frontend/Mgs/claue
+"Region Id can not be empty","El ID de la región no puede estar vacío",module,frontend/Mgs/claue
+"Zip field can not be empty","El campo zip no puede estar vacío",module,frontend/Mgs/claue
+"Zip field from should be a numeric or * value %1","El campo zip de debe ser un valor numérico o * %1",module,frontend/Mgs/claue
+"Price can not be empty","El precio no puede estar vacío",module,frontend/Mgs/claue
+"Not a valid value for price %1","No es un valor válido para el precio %1",module,frontend/Mgs/claue
+"Seller Id can not be empty","El ID del vendedor no puede estar vacío",module,frontend/Mgs/claue
+"Numeric Zipcode value can not be empty","El valor numérico del código postal no puede estar vacío",module,frontend/Mgs/claue
+"Alphanumeric Zipcode can not be empty","El código postal alfanumérico no puede estar vacío",module,frontend/Mgs/claue
+"Shipping Method should be a string %1","El método de envío debe ser una cadena %1",module,frontend/Mgs/claue
+"Shipping Method can not be empty","El método de envío no puede estar vacío",module,frontend/Mgs/claue
+"Zip to field can not be empty","El campo zip no puede estar vacío",module,frontend/Mgs/claue
+"Zip to field from should be a numeric or * value %1","Zip al campo desde debe ser un valor numérico o * %1",module,frontend/Mgs/claue
+"Zip To field should be greater then Zip From field","El campo Zip To debe ser mayor que el campo Zip From",module,frontend/Mgs/claue
+"Weight To can not be empty","Peso hasta no puede estar vacío",module,frontend/Mgs/claue
+"Not a valid value for weight to field %1","No es un valor válido para ponderar el campo %1",module,frontend/Mgs/claue
+"Weight to should be greater then weight from field","El peso debe ser mayor que el peso del campo",module,frontend/Mgs/claue
+"Weight From can not be empty","El peso de no puede estar vacío",module,frontend/Mgs/claue
+"Not a valid value for weight from field %1","No es un valor válido para el peso del campo %1",module,frontend/Mgs/claue
+"Following rows are not valid rows : %1","Las siguientes filas no son filas válidas: %1",module,frontend/Mgs/claue
+"%1 Row(s) shipping detail has been successfully saved","El detalle de envío de %1 fila (s) se ha guardado correctamente",module,frontend/Mgs/claue
+"%1 Row(s) shipping rule already exist for the given range.","Ya existe una regla de envío de %1 fila (s) para el intervalo especificado.",module,frontend/Mgs/claue
+"CSV file is not a valid file!","¡El archivo CSV no es un archivo válido!",module,frontend/Mgs/claue
+"Please write the correct header formation of CSV file!","¡Escriba la formación de encabezado correcta del archivo CSV!",module,frontend/Mgs/claue
+"Shipping rule already exist for the given range for seller.","Ya existe una regla de envío para el rango dado para el vendedor.",module,frontend/Mgs/claue
+"Your shipping detail has been successfully updated.","Su información de envío se ha actualizado correctamente.",module,frontend/Mgs/claue
+"No record Found!","¡Ningún record fue encontrado!",module,frontend/Mgs/claue
+"This Shiiping Set no longer exists.","Este Shiiping Set ya no existe.",module,frontend/Mgs/claue
+"Marketplace Super shipping set","Super set de envío de Marketplace",module,frontend/Mgs/claue
+"Marketplace Super Shipping Set Manager","Supervisor de conjunto de envío de Marketplace",module,frontend/Mgs/claue
+"Price range already exist.","El rango de precios ya existe.",module,frontend/Mgs/claue
+"Shipping Set Details Saved Successfully","Los detalles del conjunto de envío se guardaron correctamente",module,frontend/Mgs/claue
+"Shipping Set Details Successfully Updated","Detalles del conjunto de envío actualizados con éxito",module,frontend/Mgs/claue
+"Shipping Rule is successfully Deleted!","¡La regla de envío se eliminó correctamente!",module,frontend/Mgs/claue
+"Please try again!","¡Inténtalo de nuevo!",module,frontend/Mgs/claue
+"Shipping Rule(s) are successfully deleted from your account.","Las reglas de envío se eliminaron correctamente de su cuenta.",module,frontend/Mgs/claue
+"Shipping set updated successfully","Conjunto de envío actualizado correctamente",module,frontend/Mgs/claue
+"Shipping By Distnace","Envío por Distnace",module,frontend/Mgs/claue
+"Set Location","Escoger localización",module,frontend/Mgs/claue
+"Seller location was successfully saved","La ubicación del vendedor se guardó correctamente",module,frontend/Mgs/claue
+"Shipping rule already exist for the given range.","Ya existe una regla de envío para el rango dado.",module,frontend/Mgs/claue
+"Your shipping detail has been successfully saved","Su información de envío se ha guardado correctamente",module,frontend/Mgs/claue
+"Shipping detail is successfully Deleted!","¡Los detalles de envío se han eliminado correctamente!",module,frontend/Mgs/claue
+"Shipping Method is successfully Deleted!","¡El método de envío se eliminó correctamente!",module,frontend/Mgs/claue
+"Please upload Csv file","Cargue el archivo Csv",module,frontend/Mgs/claue
+"Zip field can not be empty %1","El campo zip no puede estar vacío %1",module,frontend/Mgs/claue
+"Price can not be empty %1","El precio no puede estar vacío %1",module,frontend/Mgs/claue
+"Zip to field can not be empty %1","El campo Zip to no puede estar vacío %1",module,frontend/Mgs/claue
+"Weight To can not be empty %1","Peso hasta no puede estar vacío %1",module,frontend/Mgs/claue
+"Weight From can not be empty %1","Weight From no puede estar vacío %1",module,frontend/Mgs/claue
+"Table Rate Shipping","Tarifas de Envíos",module,frontend/Mgs/claue
+"Shipping Set detail is successfully Deleted!","¡Los detalles del conjunto de envío se han eliminado correctamente!",module,frontend/Mgs/claue
+"Shipping sets are successfully deleted from your account.","Los conjuntos de envío se eliminan correctamente de su cuenta.",module,frontend/Mgs/claue
+"Table Rate Shipping Superset","Tarifas de Administración Global de Envios",module,frontend/Mgs/claue
+"Seller Of Product(s) %1 do not provide shipping service at your location.","El vendedor de productos %1 no proporciona servicio de envío en su ubicación.",module,frontend/Mgs/claue
+"You can not buy these products together with this shipping method, you can buy separately!","No puedes comprar estos productos junto con este método de envío, ¡puedes comprarlos por separado!",module,frontend/Mgs/claue
+"Show Error message","Mostrar mensaje de error",module,frontend/Mgs/claue
+"Apply Admin Rates","Aplicar tarifas de administración",module,frontend/Mgs/claue
+"KM","KM",module,frontend/Mgs/claue
+"Miles","Millas",module,frontend/Mgs/claue
+"Yes","sí",module,frontend/Mgs/claue
+"No","No",module,frontend/Mgs/claue
+"Edit","Editar",module,frontend/Mgs/claue
+"Please Select Seller","Seleccione vendedor",module,frontend/Mgs/claue
+"Actions","Comportamiento",module,frontend/Mgs/claue
+"Mass Actions","Acciones masivas",module,frontend/Mgs/claue
+"Select All","Seleccionar todo",module,frontend/Mgs/claue
+"Unselect All","Deselecciona todo",module,frontend/Mgs/claue
+"Select Visible","Seleccione Visible",module,frontend/Mgs/claue
+"Unselect Visible","Deseleccionar Visible",module,frontend/Mgs/claue
+"* Required Fields","* Campos requeridos",module,frontend/Mgs/claue
+"Location","Localización",module,frontend/Mgs/claue
+"Latitude","Latitud",module,frontend/Mgs/claue
+"Longitude","Longitud",module,frontend/Mgs/claue
+"SAVE","GUARDAR",module,frontend/Mgs/claue
+"Save","Guardar",module,frontend/Mgs/claue
+"Shipping Method","Método de envío",module,frontend/Mgs/claue
+"Distance Range Shipping List","Lista de envío de rango de distancia",module,frontend/Mgs/claue
+"Distance","Distancia",module,frontend/Mgs/claue
+"Search by method name","Buscar por nombre de método",module,frontend/Mgs/claue
+"From: ","De: ",module,frontend/Mgs/claue
+"To: ","Para: ",module,frontend/Mgs/claue
+"Submit","Enviar",module,frontend/Mgs/claue
+"Delete Shipping Rule","Eliminar regla de envío",module,frontend/Mgs/claue
+"Action","Acción",module,frontend/Mgs/claue
+"No Shipping Available","No hay envío disponible",module,frontend/Mgs/claue
+"Update","Actualizar",module,frontend/Mgs/claue
+"Menu","Menú",module,frontend/Mgs/claue
+"Manage Shipping","Gestionar Envío",module,frontend/Mgs/claue
+"Manage Shipping Superset","Administración Global de Envios",module,frontend/Mgs/claue
+"i.e. Standard delivery or Special delivery","es decir, entrega estándar o entrega especial",module,frontend/Mgs/claue
+"This enables you to assign as shipping type/service, i.e Standard or Next Day Delivery","Esto le permite asignar un tipo / servicio de envío, es decir, entrega estándar o al día siguiente.",module,frontend/Mgs/claue
+"Upload Shipping Detail","Cargar detalles de envío",module,frontend/Mgs/claue
+"Download sample file","Descargar archivo de muestra",module,frontend/Mgs/claue
+"Add shipping record","Agregar registro de envío",module,frontend/Mgs/claue
+"Shipping Type:","Tipo de envío:",module,frontend/Mgs/claue
+"Add Shipping Type","Agregar tipo de envío",module,frontend/Mgs/claue
+"Name: ","Nombre: ",module,frontend/Mgs/claue
+"(Enter region code or enter * for all)","(Ingrese el código de región o ingrese * para todos)",module,frontend/Mgs/claue
+"(Enter min weight to calculate shipping)","(Ingrese el peso mínimo para calcular el envío)",module,frontend/Mgs/claue
+"Weight to","Peso hasta",module,frontend/Mgs/claue
+"(Enter max weight to calculate shipping)","(Ingrese el peso máximo para calcular el envío)",module,frontend/Mgs/claue
+"Zip from","Zip desde",module,frontend/Mgs/claue
+"(Enter specific zip or * for all)","(Ingrese zip específico o * para todos)",module,frontend/Mgs/claue
+"Zip to","Zip a",module,frontend/Mgs/claue
+"(Enter shipping price)","(Ingrese el precio de envío)",module,frontend/Mgs/claue
+"(Enter Alphanumeric zipcode)","(Ingrese el código postal alfanumérico)",module,frontend/Mgs/claue
+"Shipping Rate List","Lista de tarifas de envío",module,frontend/Mgs/claue
+"+ Add Shipping Method","+ Agregar método de envío",module,frontend/Mgs/claue
+"Weight","Peso",module,frontend/Mgs/claue
+"Zip code","Código postal",module,frontend/Mgs/claue
+"No Record Found!","¡Ningún record fue encontrado!",module,frontend/Mgs/claue
+"SUGGESTIONS","SUGERENCIAS",module,frontend/Mgs/claue
+"Shipping Superset Information","Información de Administración Global de Envios",module,frontend/Mgs/claue
+"Super set Type","Tipo de Gestion General",module,frontend/Mgs/claue
+"Fixed","Reparado",module,frontend/Mgs/claue
+"Free","Gratis",module,frontend/Mgs/claue
+"Shipping Superset List","Lista de Administración Global de Envios",module,frontend/Mgs/claue
+"All","Todos",module,frontend/Mgs/claue
+"Delete Shipping Superset","Eliminar Administración Global de Envios",module,frontend/Mgs/claue
+"Edit shipping set record","Editar Administración Global de Envios",module,frontend/Mgs/claue
+"Are you sure, you want to delete?","¿Estas seguro que quieres borrarlo?",module,frontend/Mgs/claue
+"Are you sure, you want to delete these Shipping Rule(s)?","¿Está seguro de que desea eliminar estas reglas de envío?",module,frontend/Mgs/claue
+"Are you sure, you want to edit?","¿Estás seguro de que quieres editar?",module,frontend/Mgs/claue
+" No Checkbox is checked "," No hay casilla de verificación marcada ",module,frontend/Mgs/claue
+"There is some error during executing this process, please try again later.","Hay algún error durante la ejecución de este proceso, inténtelo de nuevo más tarde.",module,frontend/Mgs/claue
+"Invalid File Extension","Extensión de archivo inválida",module,frontend/Mgs/claue
+"Are you sure, you want to delete these Shipping sets?","¿Está seguro de que desea eliminar estos conjuntos de envío?",module,frontend/Mgs/claue
+"Field ","Campo ",module,frontend/Mgs/claue
+" is required."," es requerido.",module,frontend/Mgs/claue
+"Webkul Marketplace Table Rate Shipping Detail","Detalle de envío de tarifas de tabla de Webkul Marketplace",module,frontend/Mgs/claue
+"Enabled","Activado",module,frontend/Mgs/claue
+"Title","Título",module,frontend/Mgs/claue
+"Method Title(This will visible at frontend)","Título del método (esto será visible en la interfaz)",module,frontend/Mgs/claue
+"Ship to Applicable Countries","Enviar a países aplicables",module,frontend/Mgs/claue
+"Ship to Specific Countries","Enviar a países específicos",module,frontend/Mgs/claue
+"If seller rates are not available","Si las tarifas del vendedor no están disponibles",module,frontend/Mgs/claue
+"Enabled Distance-wise Shipping","Envío habilitado a distancia",module,frontend/Mgs/claue
+"Google API Key","Clave de API de Google",module,frontend/Mgs/claue
+"Admin Location","Ubicación del administrador",module,frontend/Mgs/claue
+"Please enter Google Map Api and save to make it work","Ingrese Google Map Api y guárdelo para que funcione",module,frontend/Mgs/claue
+"Admin Latitude","Latitud de administrador",module,frontend/Mgs/claue
+"Admin Longitude","Longitud administrativa",module,frontend/Mgs/claue
+"Distance Unit","Unidad de distancia",module,frontend/Mgs/claue
+"Add New Rule","Agregar nueva regla",module,frontend/Mgs/claue
+"Delete items","Eliminar ítems",module,frontend/Mgs/claue
+"Are you sure you want to delete selected shipping rule(s)?","¿Está seguro de que desea eliminar las reglas de envío seleccionadas?",module,frontend/Mgs/claue
+"Id","Identificación",module,frontend/Mgs/claue
+"Add New Shipping Set","Agregar nuevo conjunto de envío",module,frontend/Mgs/claue
+"Are you sure you want to delete selected shipping set?","¿Está seguro de que desea eliminar el conjunto de envío seleccionado?",module,frontend/Mgs/claue
+"Please select Country","Seleccione el País",module,frontend/Mgs/claue
