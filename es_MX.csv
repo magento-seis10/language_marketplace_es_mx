@@ -25500,3 +25500,72 @@ Packaging Features,Características de Empaque,module,frontend/Mgs/claue
 "Add New Shipping Set","Agregar nuevo conjunto de envío",module,frontend/Mgs/claue
 "Are you sure you want to delete selected shipping set?","¿Está seguro de que desea eliminar el conjunto de envío seleccionado?",module,frontend/Mgs/claue
 "Please select Country","Seleccione el País",module,frontend/Mgs/claue
+"You are trying to add a quantity for some products that doesn't match the quantity that was shipped.","Está intentando agregar una cantidad para algunos productos que no coincide con la cantidad que se envió.",module,frontend/Mgs/claue
+"Products should be added to package(s)","Los productos deben agregarse a los paquetes",module,frontend/Mgs/claue
+"The value that you entered is not valid.","El valor que ingresó no es válido.",module,frontend/Mgs/claue
+"You created the shipping label.","Creaste la etiqueta de envío.",module,frontend/Mgs/claue
+"An error occurred while creating shipping label.","Se produjo un error al crear la etiqueta de envío.",module,frontend/Mgs/claue
+"We can't save the shipment right now.","No podemos guardar el envío en este momento.",module,frontend/Mgs/claue
+"Shipment Document Validation Error(s):\n","Error (s) de validación del documento de envío:\n",module,frontend/Mgs/claue
+"The shipment has been created.","Se ha creado el envío.",module,frontend/Mgs/claue
+"Cannot save shipment.","No se puede guardar el envío.",module,frontend/Mgs/claue
+"You saved the shipping origin address.","Guardaste la dirección de origen del envío.",module,frontend/Mgs/claue
+"We can't save the origin address.","No podemos guardar la dirección de origen.",module,frontend/Mgs/claue
+"Origin Address","Dirección de Origen",module,frontend/Mgs/claue
+"Pounds","Libras",module,frontend/Mgs/claue
+"Kilograms","Kilogramos",module,frontend/Mgs/claue
+"Inches","Pulgadas",module,frontend/Mgs/claue
+"Centimeters","Centímetros",module,frontend/Mgs/claue
+"inch","pulgada",module,frontend/Mgs/claue
+"cm","cm",module,frontend/Mgs/claue
+"Height","Altura",module,frontend/Mgs/claue
+"Depth","Profundidad",module,frontend/Mgs/claue
+"Width","Ancho",module,frontend/Mgs/claue
+"Regular","Regular",module,frontend/Mgs/claue
+"Specific","Específico",module,frontend/Mgs/claue
+"Shipping labels is not available.","Las etiquetas de envío no están disponibles.",module,frontend/Mgs/claue
+"Response info is not exist.","La información de respuesta no existe.",module,frontend/Mgs/claue
+"Invalid carrier: %1","Transportista no válido: %1",module,frontend/Mgs/claue
+"We don't have enough information to create shipping labels. Please make sure your store information and settings are complete.","No tenemos suficiente información para crear etiquetas de envío. Asegúrese de que la configuración y la información de su tienda estén completas.",module,frontend/Mgs/claue
+"* Required Fields","* Campos requeridos",module,frontend/Mgs/claue
+"Shipping Origin Address","Dirección de Origen de los Envíos",module,frontend/Mgs/claue
+"Save","Guardar",module,frontend/Mgs/claue
+"Street Address","Dirección",module,frontend/Mgs/claue
+"Street Address %1","Dirección Calle %1",module,frontend/Mgs/claue
+"City","Ciudad",module,frontend/Mgs/claue
+"State/Province","Provincia del estado",module,frontend/Mgs/claue
+"Please select a region, state or province.","Seleccione una región, estado o provincia.",module,frontend/Mgs/claue
+"Zip/Postal Code","Código postal",module,frontend/Mgs/claue
+"Country","País",module,frontend/Mgs/claue
+"Shipping Setting","Configuración de Envíos",module,frontend/Mgs/claue
+"Select All","Seleccionar todo",module,frontend/Mgs/claue
+"Product Name","nombre del producto",module,frontend/Mgs/claue
+"Weight","Peso",module,frontend/Mgs/claue
+"Customs Value","Valor en aduana",module,frontend/Mgs/claue
+"Qty Ordered","Cantidad ordenada",module,frontend/Mgs/claue
+"Qty","Cant.",module,frontend/Mgs/claue
+"Delete","Borrar",module,frontend/Mgs/claue
+"Package","Paquete",module,frontend/Mgs/claue
+"Type","Escribe",module,frontend/Mgs/claue
+"Total Weight","Peso total",module,frontend/Mgs/claue
+"Size","Tamaño",module,frontend/Mgs/claue
+"Length","Largo",module,frontend/Mgs/claue
+"Signature Confirmation","Confirmación de firma",module,frontend/Mgs/claue
+"Contents","Contenido",module,frontend/Mgs/claue
+"Girth","Circunferencia",module,frontend/Mgs/claue
+"Items in the Package","Elementos del paquete",module,frontend/Mgs/claue
+"Product","Producto",module,frontend/Mgs/claue
+"Packages","Paquetes",module,frontend/Mgs/claue
+"Create Shipping Label","Crear etiqueta de envío",module,frontend/Mgs/claue
+"Create Shipping Label...","Crear etiqueta de envío ...",module,frontend/Mgs/claue
+"Download Shipping Label","Descargar etiqueta de envío",module,frontend/Mgs/claue
+"Create Packages","Crear paquetes",module,frontend/Mgs/claue
+"Cancel","Cancelar",module,frontend/Mgs/claue
+"Add Package","Agregar paquete",module,frontend/Mgs/claue
+"Add Selected Product(s) to Package","Agregar productos seleccionados al paquete",module,frontend/Mgs/claue
+"Add Products to Package","Agregar productos al paquete",module,frontend/Mgs/claue
+"USPS domestic shipments don't use package types.","Los envíos nacionales de USPS no utilizan tipos de paquetes.",module,frontend/Mgs/claue
+"in","plg",module,frontend/Mgs/claue
+"lb","lb",module,frontend/Mgs/claue
+"kg","kg",module,frontend/Mgs/claue
+"Delete Package","Eliminar paquete",module,frontend/Mgs/claue
