@@ -25129,7 +25129,7 @@ View Order Details,Ver detalles de la orden,module,frontend/Mgs/claue
 Manage Order,Administrar pedido,module,frontend/Mgs/claue
 Order Date,Fecha de orden,module,frontend/Mgs/claue
 Total Ordered Amount,Monto total pedido,module,frontend/Mgs/claue
-Total Vendor Amount ,Monto total del proveedor,module,frontend/Mgs/claue
+Total Vendor Amount,Monto total del proveedor,module,frontend/Mgs/claue
 Total Admin Commission,Comisión administrativa total,module,frontend/Mgs/claue
 Buyer Information,Información del comprador,module,frontend/Mgs/claue
 Back To My Orders,Volver a mis pedidos,module,frontend/Mgs/claue
@@ -25404,7 +25404,7 @@ Packaging Features,Características de Empaque,module,frontend/Mgs/claue
 "Shipping sets are successfully deleted from your account.","Los conjuntos de envío se eliminan correctamente de su cuenta.",module,frontend/Mgs/claue
 "Table Rate Shipping Superset","Tarifas de Administración Global de Envios",module,frontend/Mgs/claue
 "Seller Of Product(s) %1 do not provide shipping service at your location.","El vendedor de productos %1 no proporciona servicio de envío en su ubicación.",module,frontend/Mgs/claue
-"You can not buy these products together with this shipping method, you can buy separately!","No puedes comprar estos productos junto con este método de envío, ¡puedes comprarlos por separado!",module,frontend/Mgs/claue
+"You can not buy these products together with this shipping method, you can buy separately!","No puedes comprar estos productos juntos con este metodo de envio, puedes comprarlos por separado",module,frontend/Mgs/claue
 "Show Error message","Mostrar mensaje de error",module,frontend/Mgs/claue
 "Apply Admin Rates","Aplicar tarifas de administración",module,frontend/Mgs/claue
 "KM","KM",module,frontend/Mgs/claue
@@ -25569,3 +25569,9 @@ Packaging Features,Características de Empaque,module,frontend/Mgs/claue
 "lb","lb",module,frontend/Mgs/claue
 "kg","kg",module,frontend/Mgs/claue
 "Delete Package","Eliminar paquete",module,frontend/Mgs/claue
+"Shipping Cost","Costo de Envío",module,frontend/Mgs/claue
+"(Enter shipping cost)","(Ingrese el costo de envío)",module,frontend/Mgs/claue
+"Minimum order amount","Monto mínimo de Orden",module,frontend/Mgs/claue
+"Maximum order amount","Monto máximo de orden",module,frontend/Mgs/claue
+"Total Price","Precio total",module,frontend/Mgs/claue
+"Vendor Total","Total del proveedor",module,frontend/Mgs/claue
