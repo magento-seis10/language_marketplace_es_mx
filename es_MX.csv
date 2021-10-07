@@ -25013,7 +25013,7 @@ Company Description,Descripción de la empresa,module,frontend/Mgs/claue
 2. Social Media Information,2. Información de redes sociales,module,frontend/Mgs/claue
 Contact Number,Número de contacto,module,frontend/Mgs/claue
 Enter Contact Number with country code ex: (123) 456-7890,Ingrese el número de contacto con el código de país ejem: (123) 456-7890,module,frontend/Mgs/claue
-Enter Tax or VAT number,Ingrese el número de impuesto o IVA,module,frontend/Mgs/claue
+Enter Tax or VAT number,Ingrese su RFC,module,frontend/Mgs/claue
 3. Edit Payment Information,3. Editar información de pago,module,frontend/Mgs/claue
 Payment Details,Detalles de Pagos,module,frontend/Mgs/claue
 View Profile,Ver Perfil,module,frontend/Mgs/claue
@@ -25575,3 +25575,22 @@ Packaging Features,Características de Empaque,module,frontend/Mgs/claue
 "Maximum order amount","Monto máximo de orden",module,frontend/Mgs/claue
 "Total Price","Precio total",module,frontend/Mgs/claue
 "Vendor Total","Total del proveedor",module,frontend/Mgs/claue
+"This is how your clients see you","Así te ven tus clientes",module,frontend/Mgs/claue
+"Your Tax/VAT","RFC (Registro Federal de Contribuyentes)",module,frontend/Mgs/claue
+"Profile information was successfully saved","La información del perfil se guardó correctamente"
+"We can\'t save the customer.","No podemos guardar al cliente.",module,frontend/Mgs/claue
+"Twitter Id cannot contain space and special characters, allowed special characters are @,#,_,-","El ID de Twitter no puede contener espacios ni caracteres especiales, los caracteres especiales permitidos son @, #, _, -",module,frontend/Mgs/claue
+"Facebook Id cannot contain space and special characters, allowed special characters are @,#,_,-","El ID de Facebook no puede contener espacios ni caracteres especiales, los caracteres especiales permitidos son @, #, _, -",module,frontend/Mgs/claue
+"Instagram ID cannot contain space and special characters, allowed special characters are @,#,_,-","La ID de Instagram no puede contener espacios ni caracteres especiales, los caracteres especiales permitidos son @, #, _, -",module,frontend/Mgs/claue
+"Google Plus ID cannot contain space and special characters, allowed special characters are @,#,_,-","El ID de Google Plus no puede contener espacios ni caracteres especiales, los caracteres especiales permitidos son @, #, _, -",module,frontend/Mgs/claue
+"Youtube ID cannot contain space and special characters, allowed special characters are @,#,_,-","El ID de Youtube no puede contener espacios ni caracteres especiales, los caracteres especiales permitidos son @, #, _, -",module,frontend/Mgs/claue
+"Vimeo ID cannot contain space and special characters, allowed special characters are @,#,_,-","Vimeo ID no puede contener espacios ni caracteres especiales, los caracteres especiales permitidos son @, #, _, -",module,frontend/Mgs/claue
+"Pinterest ID cannot contain space and special characters, allowed special characters are @,#,_,-","El ID de Pinterest no puede contener espacios ni caracteres especiales, los caracteres especiales permitidos son @, #, _, -",module,frontend/Mgs/claue
+"Moleskine ID cannot contain space and special characters, allowed special characters are @,#,_,-","El ID de Moleskine no puede contener espacios ni caracteres especiales, los caracteres especiales permitidos son @, #, _, -",module,frontend/Mgs/claue
+"Tax/VAT Number cannot contain space and special characters","El RFC no puede contener espacios ni caracteres especiales",module,frontend/Mgs/claue
+"Invalid Background Color","Color de fondo no válido",module,frontend/Mgs/claue
+"Invalid Image Extension. Allowed extensions are jpg, jpef, png, gif","Extensión de imagen no válida. Las extensiones permitidas son jpg, jpef, png, gif",module,frontend/Mgs/claue
+"Are you sure you want to delete this banner?","¿Está seguro de que desea eliminar este banner?",module,frontend/Mgs/claue
+"Are you sure you want to delete this logo?","¿Está seguro de que desea eliminar este logotipo?",module,frontend/Mgs/claue
+"Invalid address.","Dirección inválida.",module,frontend/Mgs/claue
+"There was error during fetching results.","Hubo un error durante la obtención de resultados".,module,frontend/Mgs/claue
