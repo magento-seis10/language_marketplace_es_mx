@@ -25594,3 +25594,14 @@ Packaging Features,Características de Empaque,module,frontend/Mgs/claue
 "Are you sure you want to delete this logo?","¿Está seguro de que desea eliminar este logotipo?",module,frontend/Mgs/claue
 "Invalid address.","Dirección inválida.",module,frontend/Mgs/claue
 "There was error during fetching results.","Hubo un error durante la obtención de resultados".,module,frontend/Mgs/claue
+Special order,Pedido Especial,module,frontend/Mgs/claue
+Collection,Colección,module,frontend/Mgs/claue
+"Only registered users can write reviews. Please ","Solo los usuarios registrados pueden escribir reseñas. Por favor ",module,frontend/Mgs/claue
+"Sign in","Inicia Sesión",module,frontend/Mgs/claue
+" or "," o ",module,frontend/Mgs/claue
+"Create an Account.","Crea una cuenta.",module,frontend/Mgs/claue
+"Only registered users can Ask Question. Please ","Solo los usuarios registrados pueden hacer Preguntas. Por favor ",module,frontend/Mgs/claue
+"Error with you logo image. It should be less than 2mb","Error con la imagen del logotipo. Debe ser menor a 2 Mb",module,frontend/Mgs/claue
+"Error with you logo image. The image should be jpg, jpeg, gif or png.","Error con la imagen del logotipo. La imagen debe ser jpg, jpeg, gif o png".,module,frontend/Mgs/claue
+"Error with you banner image. The image should be jpg, jpeg, gif or png","Error con la imagen del banner. La imagen debe ser jpg, jpeg, gif o png",module,frontend/Mgs/claue
+"Error with you banner image. It should be less than 2mb","Error con la imagen del banner. Debe ser menor a 2 Mb",module,frontend/Mgs/claue
