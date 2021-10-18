@@ -25609,3 +25609,5 @@ Collection,Colección,module,frontend/Mgs/claue
 GDPR,Privacidad de la Cuenta,module,frontend/Mgs/claue
 Data Access,Acceso a los datos,module,frontend/Mgs/claue
 Erase Account,Borrar cuenta,module,frontend/Mgs/claue
+"Your image should comply with the following rules: Weight should be less than 2MB. Accepted formats: png, jpg, jpeg. Preffered size 1200px x 600px","Su imagen debe cumplir con las siguientes reglas: El peso debe ser inferior a 2 MB. Formatos aceptados: png, jpg, jpeg. Tamaño preferido 1200px x 600px",module,frontend/Mgs/claue
+"Your image should comply with the following rules: Weight should be less than 2MB. Accepted formats: png, jpg, jpeg. Preffered size 500px x 500px","Su imagen debe cumplir con las siguientes reglas: El peso debe ser inferior a 2 MB. Formatos aceptados: png, jpg, jpeg. Tamaño preferido 500px x 500px",module,frontend/Mgs/claue
