@@ -25022,7 +25022,7 @@ Create Attribute,Crear atributo,module,frontend/Mgs/claue
 Catalog Input Type,Tipo de entrada de catálogo,module,frontend/Mgs/claue 
 Manage Configurable Product's Attribute,Gestionar el atributo del producto configurable,module,frontend/Mgs/claue
 Create Attribute for Configurable Products,Crear atributo para productos configurables,module,frontend/Mgs/claue
-Marketplace Add New Product,Agregar Nuevo Producto Marketplace,module,frontend/Mgs/claue
+Marketplace Add New Product,Agregar Nuevo Producto,module,frontend/Mgs/claue
 CATEGORIES,CATEGORIAS,module,frontend/Mgs/claue
 Special Price To,Precio especial para,module,frontend/Mgs/claue
 Allowed Product Qty on Product Purchase for Customer,Define el mínimo de Pedido por Compra,module,frontend/Mgs/claue
@@ -25031,7 +25031,7 @@ Product Images,Imágenes del producto,module,frontend/Mgs/claue
 "Configurable products allow customers to choose options (Ex: shirt color).You need to create a simple product for each configuration (Ex: a product for each color).","Los productos configurables permiten a los clientes elegir opciones (por ejemplo, el color de la camisa). Necesita crear un producto simple para cada configuración (por ejemplo, un producto para cada color).",module,frontend/Mgs/claue
 These "impulse-buy" products appear next to the shopping cart as cross-sells to the items already in the shopping cart.,Estos productos de "compra por impulso" aparecen junto al carrito de compras como ventas cruzadas son artículos complementarios a los productos seleccionados.,module,frontend/Mgs/claue
 My Product List,Mi lista de productos,module,frontend/Mgs/claue
-Marketplace Product List,Lista de Productos Marketplace,module,frontend/Mgs/claue
+Marketplace Product List,Lista de Productos,module,frontend/Mgs/claue
 Product Status,Estado del producto,module,frontend/Mgs/claue
 Qty. Confirmed, Cant. Confirmada,module,frontend/Mgs/claue
 Qty. Pending,Cant Confirmada,module,frontend/Mgs/claue
@@ -25605,5 +25605,9 @@ Collection,Colección,module,frontend/Mgs/claue
 "Error with you logo image. The image should be jpg, jpeg, gif or png.","Error con la imagen del logotipo. La imagen debe ser jpg, jpeg, gif o png".,module,frontend/Mgs/claue
 "Error with you banner image. The image should be jpg, jpeg, gif or png","Error con la imagen del banner. La imagen debe ser jpg, jpeg, gif o png",module,frontend/Mgs/claue
 "Error with you banner image. It should be less than 2mb","Error con la imagen del banner. Debe ser menor a 2 Mb",module,frontend/Mgs/claue
+"Marketplace Edit Product","Editar producto",module,frontend/Mgs/claue
+GDPR,Privacidad de la Cuenta,module,frontend/Mgs/claue
+Data Access,Acceso a los datos,module,frontend/Mgs/claue
+Erase Account,Borrar cuenta,module,frontend/Mgs/claue
 "Your image should comply with the following rules: Weight should be less than 2MB. Accepted formats: png, jpg, jpeg. Preffered size 1200px x 600px","Su imagen debe cumplir con las siguientes reglas: El peso debe ser inferior a 2 MB. Formatos aceptados: png, jpg, jpeg. Tamaño preferido 1200px x 600px",module,frontend/Mgs/claue
 "Your image should comply with the following rules: Weight should be less than 2MB. Accepted formats: png, jpg, jpeg. Preffered size 500px x 500px","Su imagen debe cumplir con las siguientes reglas: El peso debe ser inferior a 2 MB. Formatos aceptados: png, jpg, jpeg. Tamaño preferido 500px x 500px",module,frontend/Mgs/claue
