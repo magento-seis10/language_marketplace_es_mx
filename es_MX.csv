@@ -25014,7 +25014,7 @@ Company Description,Descripción de la empresa,module,frontend/Mgs/claue
 Contact Number,Número de contacto,module,frontend/Mgs/claue
 Enter Contact Number with country code ex: (123) 456-7890,Ingrese el número de contacto con el código de país ejem: (123) 456-7890,module,frontend/Mgs/claue
 Enter Tax or VAT number,Ingrese su RFC,module,frontend/Mgs/claue
-3. Edit Payment Information,3. Editar información de pago,module,frontend/Mgs/claue
+"4. Edit Payment Information","4. Editar información de pago",module,frontend/Mgs/claue
 Payment Details,Detalles de Pagos,module,frontend/Mgs/claue
 View Profile,Ver Perfil,module,frontend/Mgs/claue
 View Collection,Ver Colección,module,frontend/Mgs/claue
@@ -25328,7 +25328,7 @@ Packaging Features,Características de Empaque,module,frontend/Mgs/claue
 "Shipping Rule Information","Información de la regla de envío",module,frontend/Mgs/claue
 "Country code","Código de país",module,frontend/Mgs/claue
 "Region code","Código de región",module,frontend/Mgs/claue
-"Weight from","Peso de",module,frontend/Mgs/claue
+"Shipping weight in Kg from","Peso del envío en Kg desde",module,frontend/Mgs/claue
 "Zip From","Zip desde",module,frontend/Mgs/claue
 "Zip To","Zip a",module,frontend/Mgs/claue
 "Shipping Rule Info","Información de la regla de envío",module,frontend/Mgs/claue
@@ -25449,13 +25449,13 @@ Packaging Features,Características de Empaque,module,frontend/Mgs/claue
 "Name: ","Nombre: ",module,frontend/Mgs/claue
 "(Enter region code or enter * for all)","(Ingrese el código de región o ingrese * para todos)",module,frontend/Mgs/claue
 "(Enter min weight to calculate shipping)","(Ingrese el peso mínimo para calcular el envío)",module,frontend/Mgs/claue
-"Weight to","Peso hasta",module,frontend/Mgs/claue
+"Shipping weight in Kg to","Peso del envío en Kg hasta",module,frontend/Mgs/claue
 "(Enter max weight to calculate shipping)","(Ingrese el peso máximo para calcular el envío)",module,frontend/Mgs/claue
-"Zip from","Zip desde",module,frontend/Mgs/claue
-"(Enter specific zip or * for all)","(Ingrese zip específico o * para todos)",module,frontend/Mgs/claue
-"Zip to","Zip a",module,frontend/Mgs/claue
+"Consider ZIP codes from","Considerar códigos postales desde",module,frontend/Mgs/claue
+"(Enter specific zip or * for all)","(Ingrese Código Postal específico o * para todos)",module,frontend/Mgs/claue
+"Consider postal codes up to","Considerar códigos posales hasta",module,frontend/Mgs/claue
 "(Enter shipping price)","(Ingrese el precio de envío)",module,frontend/Mgs/claue
-"(Enter Alphanumeric zipcode)","(Ingrese el código postal alfanumérico)",module,frontend/Mgs/claue
+"(Enter Alphanumeric zipcode * for all)","(Ingrese el código postal alfanumérico o * para todos)",module,frontend/Mgs/claue
 "Shipping Rate List","Lista de tarifas de envío",module,frontend/Mgs/claue
 "+ Add Shipping Method","+ Agregar método de envío",module,frontend/Mgs/claue
 "Weight","Peso",module,frontend/Mgs/claue
@@ -25499,7 +25499,7 @@ Packaging Features,Características de Empaque,module,frontend/Mgs/claue
 "Id","Identificación",module,frontend/Mgs/claue
 "Add New Shipping Set","Agregar nuevo conjunto de envío",module,frontend/Mgs/claue
 "Are you sure you want to delete selected shipping set?","¿Está seguro de que desea eliminar el conjunto de envío seleccionado?",module,frontend/Mgs/claue
-"Please select Country","Seleccione el País",module,frontend/Mgs/claue
+"Country Default Mexico ò Select another Country","Pais Default México ò Seleccione otro País",module,frontend/Mgs/claue
 "You are trying to add a quantity for some products that doesn't match the quantity that was shipped.","Está intentando agregar una cantidad para algunos productos que no coincide con la cantidad que se envió.",module,frontend/Mgs/claue
 "Products should be added to package(s)","Los productos deben agregarse a los paquetes",module,frontend/Mgs/claue
 "The value that you entered is not valid.","El valor que ingresó no es válido.",module,frontend/Mgs/claue
@@ -25611,3 +25611,5 @@ Data Access,Acceso a los datos,module,frontend/Mgs/claue
 Erase Account,Borrar cuenta,module,frontend/Mgs/claue
 "Your image should comply with the following rules: Weight should be less than 2MB. Accepted formats: png, jpg, jpeg. Preffered size 1200px x 600px","Su imagen debe cumplir con las siguientes reglas: El peso debe ser inferior a 2 MB. Formatos aceptados: png, jpg, jpeg. Tamaño preferido 1200px x 600px",module,frontend/Mgs/claue
 "Your image should comply with the following rules: Weight should be less than 2MB. Accepted formats: png, jpg, jpeg. Preffered size 500px x 500px","Su imagen debe cumplir con las siguientes reglas: El peso debe ser inferior a 2 MB. Formatos aceptados: png, jpg, jpeg. Tamaño preferido 500px x 500px",module,frontend/Mgs/claue
+"Choose, are Zip Codes Numeric in your country?","Elija, los Códigos Postales son Numéricos en su pais?",module,frontend/Mgs/claue
+"3. Contact information","3. Información de Contacto",module,frontend/Mgs/claue
