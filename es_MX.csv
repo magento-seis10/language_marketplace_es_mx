@@ -24669,7 +24669,7 @@ Price,Precio,module,frontend/Mgs/claue
 Subtotal,Total parcial,module,frontend/Mgs/claue
 Discount Amount,Importe de descuento,module,frontend/Mgs/claue
 Row Total,Total de filas,module,frontend/Mgs/claue
-Qty Invoiced,Cantidad facturada,module,frontend/Mgs/claue
+Qty Invoiced,Cantidad en Recibo de Pago,module,frontend/Mgs/claue
 Ordered,Ordenado,module,frontend/Mgs/claue
 Shipped,Enviado,module,frontend/Mgs/claue
 Canceled,Cancelado,module,frontend/Mgs/claue
@@ -24726,7 +24726,7 @@ Phone,Teléfono,module,frontend/Mgs/claue
 Send Messages,Enviar mensajes,module,frontend/Mgs/claue
 Change,Cambio,module,frontend/Mgs/claue
 Address Book,Directorio,module,frontend/Mgs/claue
-Default Billing Address,Dirección de Facturación por Defecto,module,frontend/Mgs/claue
+Default Billing Address,Dirección para Recibo de Pago por Defecto,module,frontend/Mgs/claue
 Edit Address,Editar dirección,module,frontend/Mgs/claue
 Default Shipping Address,Dirección de entrega por defecto,module,frontend/Mgs/claue
 Manage Addresses,Administrar Direcciones,module,frontend/Mgs/claue
@@ -24738,7 +24738,7 @@ You subscribe to General Subscription.,Se suscribe a General suscripción.,modul
 You don't subscribe to our newsletter.,Usted no está suscrito a nuestro boletín de noticias.,module,frontend/Mgs/claue
 Back,Atrás,module,frontend/Mgs/claue
 My Account,Mi cuenta,module,frontend/Mgs/claue
-You have no default billing address in your address book.,Usted no tiene ninguna dirección de facturación por defecto en su libreta de direcciones.,module,frontend/Mgs/claue
+"You have no default billing address in your address book.","Usted no tiene ninguna dirección para Recibos de Pago por defecto en su libreta de direcciones.",module,frontend/Mgs/claue
 You have no default shipping address in your address book.,Usted no tiene ninguna dirección de envío predeterminada en su libreta de direcciones.,module,frontend/Mgs/claue
 Additional Address Entries,Las entradas de direcciones adicionales,module,frontend/Mgs/claue
 Delete,Eliminar,module,frontend/Mgs/claue
@@ -24754,8 +24754,8 @@ VAT Number,Número de valor agregado,module,frontend/Mgs/claue
 State/Province,Estado,module,frontend/Mgs/claue
 "Please select a region, state or province.","Por favor, seleccione una región, estado o provincia.",module,frontend/Mgs/claue
 Zip/Postal Code,Código Postal,module,frontend/Mgs/claue
-It's a default billing address.,Es una dirección de facturación por defecto.,module,frontend/Mgs/claue
-Use as my default billing address,Utilizar como dirección de facturación por defecto,module,frontend/Mgs/claue
+"It's a default billing address.","Es una dirección para Recibo de Pago por defecto.",module,frontend/Mgs/claue
+Use as my default billing address,Utilizar como dirección para Recibo de Pago por defecto,module,frontend/Mgs/claue
 It's a default shipping address.,Es una dirección de envío predeterminada.,module,frontend/Mgs/claue
 Use as my default shipping address,Uso como mi dirección de envío predeterminada,module,frontend/Mgs/claue
 Save Address,Guardar Dirección,module,frontend/Mgs/claue
@@ -24807,10 +24807,10 @@ Remove,Eliminar,module,frontend/Mgs/claue
 Other items in your order,Otros artículos en su pedido,module,frontend/Mgs/claue
 Edit Items,Editar elementos,module,frontend/Mgs/claue
 Shipping is not applicable.,El envío no es aplicable.,module,frontend/Mgs/claue
-Default Billing,facturación por defecto,module,frontend/Mgs/claue
+Default Billing,Recibo de Pago por defecto,module,frontend/Mgs/claue
 Default Shipping,envío por defecto,module,frontend/Mgs/claue
 Select Address,Seleccione la Dirección,module,frontend/Mgs/claue
-Back to Billing Information,Volver a Información de facturación,module,frontend/Mgs/claue
+Back to Billing Information,Volver a Información para Recibo de Pago,module,frontend/Mgs/claue
 "Please select a shipping address for applicable items.","Por favor, seleccione una dirección de envío para los artículos aplicables.",module,frontend/Mgs/claue
 Send To,Enviar a,module,frontend/Mgs/claue
 A shipping selection is not applicable.,Una selección de envío no es aplicable.,module,frontend/Mgs/claue
@@ -24823,7 +24823,7 @@ Billing Address,Dirección de Envio,module,frontend/Mgs/claue
 Payment Method,Método de pago,module,frontend/Mgs/claue
 Back to Shipping Information,Volver a la información de envío,module,frontend/Mgs/claue
 Go to Review Your Order,Ir a revisar su pedido,module,frontend/Mgs/claue
-Billing Information,Datos de facturación,module,frontend/Mgs/claue
+Billing Information,Datos para Recibo de Pago,module,frontend/Mgs/claue
 Shipping Information,Información de envío,module,frontend/Mgs/claue
 "Address %1 <span>of %2</span>","La dirección %1 <span> de 2% </ span>",module,frontend/Mgs/claue
 Shipping To,Embarcar hacia,module,frontend/Mgs/claue
@@ -24839,7 +24839,7 @@ Submitting order information...,La presentación de la información del pedido .
 Change Address,Cambiar dirección,module,frontend/Mgs/claue
 "Sorry, no quotes are available for this order right now.","Lo sentimos, no hay precios disponibles para este pedido en este momento.",module,frontend/Mgs/claue
 Back to Select Addresses,Volver a seleccionar las direcciones,module,frontend/Mgs/claue
-Continue to Billing Information,Seguir la información de facturación,module,frontend/Mgs/claue
+Continue to Billing Information,Continuar con la información para Recibo de Pago,module,frontend/Mgs/claue
 Enter your email address,Introduzca su dirección de correo electrónico,module,frontend/Mgs/claue
 Subscribe,Suscribir,module,frontend/Mgs/claue
 Your email address,Tu correo electrónico,module,frontend/Mgs/claue
@@ -24933,7 +24933,7 @@ What’s on your mind,Qué tienes en mente,module,frontend/Mgs/claue
 What’s on your mind?,¿Qué tienes en mente?,module,frontend/Mgs/claue
 Send Message,Enviar mensaje,module,frontend/Mgs/claue
 Default Addresses,Direcciones por defecto,module,frontend/Mgs/claue
-Change Billing Address,Cambio de dirección de facturación,module,frontend/Mgs/claue
+Change Billing Address,Cambio de dirección para Recibo de Pago,module,frontend/Mgs/claue
 Change Shipping Address,Cambiar la dirección de envío,module,frontend/Mgs/claue
 Additional Addresses Entries,Direcciones adicionales Entradas,module,frontend/Mgs/claue
 Delete Address,Eliminar dirección,module,frontend/Mgs/claue
@@ -25061,13 +25061,13 @@ Total Earning,Ganancia total,module,frontend/Mgs/claue
 Total Discount Amount,Importe de descuento total,module,frontend/Mgs/claue
 Admin Commission,Comisión administrativa,module,frontend/Mgs/claue
 Manage Print PDF Header Info,Administrar información de encabezado de PDF de impresión,module,frontend/Mgs/claue
-Invoice and Packing Slip Address/VAT/Tax Information,Factura y hoja de envíos/ Dirección / IVA / Información fiscal,module,frontend/Mgs/claue
+"Invoice and Packing Slip Address/VAT/Tax Information","Recibo de Pago y hoja de envíos/ Dirección / RFC",module,frontend/Mgs/claue
 Save Information,Guardar información,module,frontend/Mgs/claue
 My Order History,Mi historial de pedidos,module,frontend/Mgs/claue
-Download All Invoice Slip,Descargar todas las facturas,module,frontend/Mgs/claue
+Download All Invoice Slip,Descargar todos los Recibos de Pago,module,frontend/Mgs/claue
 Download All Shipping Slip,Descargar todos los comprobantes de envío,module,frontend/Mgs/claue
 Order Id,ID de Orden,module,frontend/Mgs/claue
-Search by Order Id,Buscar por ID de pedido,module,frontend/Mgs/claue
+Search by Order,Buscar por Pedido,module,frontend/Mgs/claue
 No Order Available,Ningún pedido disponible,module,frontend/Mgs/claue
 My Customer History,Mi historial de cliente,module,frontend/Mgs/claue
 Contact No.,Contacto No.,module,frontend/Mgs/claue
@@ -25083,7 +25083,7 @@ Shop URL,Sitio Web de la Tienda,module,frontend/Mgs/claue
 "Congratulations! Shop name is available.","¡Felicidades! El nombre de la tienda está disponible",module,frontend/Mgs/claue
 Password,Contraseña,module,frontend/Mgs/claue
 Login,Iniciar Sesión,module,frontend/Mgs/claue
-Shop URL For Your Marketplace Shop,Sitio Web que usará el Marketplace,module,frontend/Mgs/claue
+" Shop URL For Your Marketplace Shop "," Sitio Web que usará la Tienda ",module,frontend/Mgs/claue
 My Products List, Mi Lista de Productos,module,frontend/Mgs/claue
 Flat Rate,Tarifa,module,frontend/Mgs/claue
 Fixed,Fija,module,frontend/Mgs/claue
@@ -25133,7 +25133,7 @@ Total Vendor Amount,Monto total del proveedor,module,frontend/Mgs/claue
 Total Admin Commission,Comisión administrativa total,module,frontend/Mgs/claue
 Buyer Information,Información del comprador,module,frontend/Mgs/claue
 Back To My Orders,Volver a mis pedidos,module,frontend/Mgs/claue
-Download Invoice Slip,Descargar comprobante de factura,module,frontend/Mgs/claue
+Download Invoice Slip,Descargar comprobante de Recibo de Pago,module,frontend/Mgs/claue
 Sales,Ventas,module,frontend/Mgs/claue
 Whoops, our bad...,Oops, algo salio mál...,module,frontend/Mgs/claue
 Your mail has been sent.,Su correo ha sido enviado.,module,frontend/Mgs/claue
@@ -25175,7 +25175,7 @@ Marketplace Profile,Perfil de Vendedor,module,frontend/Mgs/claue
 "Enter description that shows on link preview","Escribe la descripción que se muestra al compartir el enlace",module,Webkul_Marketplace
 "Enter title that shows on link preview","Escribe el titulo que se muestra al compartir el enlace",module,Webkul_Marketplace
 "Write Your Review","Escribe tu reseña",module,Webkul_Marketplace
-Defines the maximum Order per Purchase,Define el mínimo de Pedido por Compra,module,frontend/Mgs/claue
+Defines the maximum Order per Purchase,Define el máximo de Pedido por Compra,module,frontend/Mgs/claue
 Order Details of Product,Detalles de pedidos del producto,module,frontend/Mgs/claue
 Make a Withdrawal,Cobrar tus ganancias,module,frontend/Mgs/claue
 "Customer: ","Cliente: ",module,frontend/Mgs/claue
@@ -25193,14 +25193,14 @@ Cancel Order,Cancelar Pedido,module,frontend/Mgs/claue
 "Manage Order #%1","Gestionar Pedido #%1",module,frontend/Mgs/claue
 "<span class="label">Order Date:</span> %1","<span class="label">Fecha Pedido:</span> %1",module,frontend/Mgs/claue
 Send Email To Customer,Enviar correo electrónico al cliente,module,frontend/Mgs/claue
-Create Invoice to confirm collected amount from buyer for this order,Cree una factura para confirmar el monto cobrado por el comprador para este pedido,module,frontend/Mgs/claue
+Create Invoice to confirm collected amount from buyer for this order,Cree un Recibo de Pago para confirmar el monto cobrado por el comprador para este pedido,module,frontend/Mgs/claue
 Print,Imprimir,module,frontend/Mgs/claue
 Send Email,Envíar correo electrónico,module,frontend/Mgs/claue
-Invoice,Factura,module,frontend/Mgs/claue
+Invoice,Recibo de Pago,module,frontend/Mgs/claue
 Pay Admin for his commission for this order,Pague al administrador su comisión por este pedido,module,frontend/Mgs/claue
 Pay Admin Commission,Pagar comisión administrativa,module,frontend/Mgs/claue
-Create Credit Memo,Crear Nota de Crédito,module,frontend/Mgs/claue
-Credit Memo,Nota de Crédito,module,frontend/Mgs/claue
+Create Credit Memo,Crear Devolución,module,frontend/Mgs/claue
+Credit Memo,Devolución,module,frontend/Mgs/claue
 Create Shipment for Order,Crear envío para pedido,module,frontend/Mgs/claue
 Ship,Enviar,module,frontend/Mgs/claue
 Customer Name,Nombre del cliente,module,frontend/Mgs/claue
@@ -25209,7 +25209,7 @@ This section of the site is designed to be used on desktop.,Esta sección del si
 Attribute Created Successfully,Atributo creado con éxito,module,frontend/Mgs/claue 
 The order has been cancelled.El pedido ha sido cancelado.,module,frontend/Mgs/claue
 Payment & Shipping Method,Método de pago y envío,module,frontend/Mgs/claue
-New Credit Memo,Nueva Orden de Crédito,module,frontend/Mgs/claue
+New Credit Memo,Nueva Devolución,module,frontend/Mgs/claue
 View All Memos,Ver todas las notas,module,frontend/Mgs/claue
 Creditmemo List,Lista de créditos,module,frontend/Mgs/claue
 Maximum Purchase,Máximo Compra,module,frontend/Mgs/claue
@@ -25539,7 +25539,7 @@ Packaging Features,Características de Empaque,module,frontend/Mgs/claue
 "Country","País",module,frontend/Mgs/claue
 "Shipping Setting","Configuración de Envíos",module,frontend/Mgs/claue
 "Select All","Seleccionar todo",module,frontend/Mgs/claue
-"Product Name","nombre del producto",module,frontend/Mgs/claue
+"Product Name","Nombre del Producto",module,frontend/Mgs/claue
 "Weight","Peso",module,frontend/Mgs/claue
 "Customs Value","Valor en aduana",module,frontend/Mgs/claue
 "Qty Ordered","Cantidad ordenada",module,frontend/Mgs/claue
@@ -25613,3 +25613,8 @@ Erase Account,Borrar cuenta,module,frontend/Mgs/claue
 "Your image should comply with the following rules: Weight should be less than 2MB. Accepted formats: png, jpg, jpeg. Preffered size 500px x 500px","Su imagen debe cumplir con las siguientes reglas: El peso debe ser inferior a 2 MB. Formatos aceptados: png, jpg, jpeg. Tamaño preferido 500px x 500px",module,frontend/Mgs/claue
 "Choose, are Zip Codes Numeric in your country?","Elija, los Códigos Postales son Numéricos en su pais?",module,frontend/Mgs/claue
 "3. Contact information","3. Información de Contacto",module,frontend/Mgs/claue
+"Unit height","Altura de la unidad",module,frontend/Mgs/claue
+"Unit Width","Ancho de la unidad",module,frontend/Mgs/claue
+"Unit Length","Longitud de la Unidad",module,frontend/Mgs/claue
+"Weight per unit","Peso por Unidad",module,frontend/Mgs/claue
+"ITEMS TO REFUND","MERCANCÍA POR DEVOLVER",module,frontend/Mgs/claue
