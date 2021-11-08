@@ -25613,8 +25613,80 @@ Erase Account,Borrar cuenta,module,frontend/Mgs/claue
 "Your image should comply with the following rules: Weight should be less than 2MB. Accepted formats: png, jpg, jpeg. Preffered size 500px x 500px","Su imagen debe cumplir con las siguientes reglas: El peso debe ser inferior a 2 MB. Formatos aceptados: png, jpg, jpeg. Tamaño preferido 500px x 500px",module,frontend/Mgs/claue
 "Choose, are Zip Codes Numeric in your country?","Elija, los Códigos Postales son Numéricos en su pais?",module,frontend/Mgs/claue
 "3. Contact information","3. Información de Contacto",module,frontend/Mgs/claue
-"Unit height","Altura de la unidad",module,frontend/Mgs/claue
+"Unit Height","Altura de la unidad",module,frontend/Mgs/claue
 "Unit Width","Ancho de la unidad",module,frontend/Mgs/claue
 "Unit Length","Longitud de la Unidad",module,frontend/Mgs/claue
 "Weight per unit","Peso por Unidad",module,frontend/Mgs/claue
 "ITEMS TO REFUND","MERCANCÍA POR DEVOLVER",module,frontend/Mgs/claue
+"I would like to ask a question regarding the product.","Me gustaría hacer una pregunta sobre el producto.",module,frontend/Mgs/claue
+"A question has been ask by seller please revert back to him as soon as possible.","El vendedor ha hecho una pregunta. Vuélvala a contactar lo antes posible.",module,frontend/Mgs/claue
+"Seller's Name","Nombre del vendedor",module,frontend/Mgs/claue
+"Seller's Question","Pregunta del vendedor",module,frontend/Mgs/claue
+"I would like to ask a question,please revert back to me asap.","Me gustaría hacer una pregunta, por favor vuelva a mí lo antes posible.",module,frontend/Mgs/claue
+"This is to inform you that ","Esto es para informarle de que ",module,frontend/Mgs/claue
+" has requested to become a seller."," ha solicitado convertirse en vendedor.",module,frontend/Mgs/claue
+"Please","Por favor",module,frontend/Mgs/claue
+" Click here "," Haga clic aquí ",module,frontend/Mgs/claue
+"to login.","para iniciar sesión.",module,frontend/Mgs/claue
+"Please approve the product as soon as possible.","Apruebe el producto lo antes posible.",module,frontend/Mgs/claue
+"To sign in to our site and set a password, click on the next link.","Para iniciar sesión en nuestro sitio y establecer una contraseña, haga clic en el siguiente enlace.",module,frontend/Mgs/claue
+"I would like to inform you that your product is in low stock.","Me gustaría informarle que su producto tiene pocas existencias.",module,frontend/Mgs/claue
+"You can increase the product stock by logging into your account, click on the next link.",""Puede aumentar el stock de productos iniciando sesión en su cuenta, haga clic en el siguiente enlace.",module,frontend/Mgs/claue
+"-Your Product Information-","-Información de Producto-",module,frontend/Mgs/claue
+"I would like to inform you that one of your order has been invoiced.","Me gustaría informarle que uno de sus pedidos ya cuenta con Recibo de Pago.",module,frontend/Mgs/claue
+"You can check your order by logging into your account, click on the next link.","Puede verificar su pedido iniciando sesión en su cuenta, haga clic en el siguiente enlace.",module,frontend/Mgs/claue
+"Your Order #%increment_id","Su Pedido #%increment_id",module,frontend/Mgs/claue
+"Placed on #%created_at","Colocado en #%created_at",module,frontend/Mgs/claue
+"Billing Info","Información de Recibo de Pago",module,frontend/Mgs/claue
+"I would like to inform you that a order has been sold from the store.","Me gustaría informarle que se ha vendido un pedido en su tienda.",module,frontend/Mgs/claue
+"You can check the status of your order by logging into your account, click on the next link.","Puede verificar el estado de su pedido iniciando sesión en su cuenta, haga clic en el siguiente enlace.",module,frontend/Mgs/claue
+"I would like to inform you that your product has been approved.","Me gustaría informarle que su producto ha sido aprobado.",module,frontend/Mgs/claue
+"Product Description","Descripción del Producto",module,frontend/Mgs/claue
+"This is to inform you that your product has been denied from approval.","Esto es para informarle que se ha denegado la aprobación de su producto.",module,frontend/Mgs/claue
+"Deny Reason","Razon de la Negación",module,frontend/Mgs/claue
+"A flag is reported against the product %product_name","Se informa un Reporte contra el producto %product_name",module,frontend/Mgs/claue
+"Reporter Name","Nombre del Reportante",module,frontend/Mgs/claue
+"Reporter Email","Correo Electrónico del Reportante",module,frontend/Mgs/claue
+"I would like to inform you that your product has been disapproved.","Me gustaría informarle que su producto ha sido rechazado.",module,frontend/Mgs/claue
+"This is to inform you that you are approved as seller.","Esto es para informarle que está aprobado como vendedor.",module,frontend/Mgs/claue
+"This is to inform you that you are denied to become a seller.","Esto es para informarle que se le niega la posibilidad de convertirse en vendedor.",module,frontend/Mgs/claue
+"Seller Name","Nombre del Vendedor",module,frontend/Mgs/claue
+"This is to inform you that you are disapproved from seller.","Esto es para informarle que no está aprobado por el vendedor.",module,frontend/Mgs/claue
+"A flag is reported against the seller %seller_name","Se informa una Reporte contra el vendedor %seller_name",module,frontend/Mgs/claue
+"This is to inform you that your become seller request in processing state.","Esto es para informarle que su solicitud de convertirse en vendedor se encuentra en proceso.",module,frontend/Mgs/claue
+"I would like to inform you that your payment for your order(s) has been successfully done.","Me gustaría informarle que el pago de su (s) pedido (s) se ha realizado correctamente.",module,frontend/Mgs/claue
+"You can check your transaction by logging into your account, click on the next link.","Puede verificar su transacción ingresando a su cuenta, haga clic en el siguiente enlace.",module,frontend/Mgs/claue
+"Transaction Id #%increment_id","ID de transacción #%increment_id",module,frontend/Mgs/claue
+"Transaction Amount","Cantidad de Transacción",module,frontend/Mgs/claue
+"Comment Message","Mensaje de comentario",module,frontend/Mgs/claue
+"Order Id #","Pedido ID #",module,frontend/Mgs/claue
+"Total payout amount","Importe total del pago",module,frontend/Mgs/claue
+"Hello","Hola",module,frontend/Mgs/claue
+"Please check after logging into your account, click on the next link.","Por favor, verifique iniciando sesión en su cuenta, haga clic en el siguiente enlace.",module,frontend/Mgs/claue
+"Request to withdraw an amount ","Solicitud de retiro de un monto ",module,frontend/Mgs/claue
+" is received from seller %seller."," se ha recibido del venedor %seller.",module,frontend/Mgs/claue
+"Your %store_name email has been changed","Su Correo Electrónico en MYLO ha cambiado",module,frontend/Mgs/claue
+"If you have not authorized this action, please contact us immediately at ","Si no ha autorizado esta acción, comuníquese con nosotros inmediatamente al ",module,frontend/Mgs/claue
+"Reset your %store_name password","Reestablecer su contraseña %store_name",module,frontend/Mgs/claue
+"Go to Product:","Ir al Producto",module,frontend/Mgs/claue
+"Admin : Question Asked By Customer.",""Administrador: Pregunta formulada por el cliente.",module,frontend/Mgs/claue
+"Withdrawal request from Seller","Solicitud de retiro del vendedor",module,frontend/Mgs/claue
+"Payment Notification To Seller","Notificación de pago al vendedor",module,frontend/Mgs/claue
+"Seller Status Change Notification","Notificación de cambio de estado del vendedor",module,frontend/Mgs/claue
+"Reported flag against seller","Reporte contra el vendedor",module,frontend/Mgs/claue
+"Seller Status Change Notification","Notificación de cambio de estado del vendedor",module,frontend/Mgs/claue
+"Seller Deny Notification","Notificación de denegación del vendedor",module,frontend/Mgs/claue
+"Seller Approval Notification","Notificación de aprobación del vendedor",module,frontend/Mgs/claue
+"Product Disapproved Notification","Notificación de producto rechazado",module,frontend/Mgs/claue
+"Reported flag against product","Reporte contra el producto",module,frontend/Mgs/claue
+"Product Deny Notification","Notificación de denegación de producto",module,frontend/Mgs/claue
+"Product Approved Notification","Notificación de producto aprobado",module,frontend/Mgs/claue
+"Order Placed Notification To Seller","Notificación de pedido realizado al vendedor",module,frontend/Mgs/claue
+"Order Invoiced Notification To Seller","Notificación de pedido en Recibo de Pago al vendedor",module,frontend/Mgs/claue
+"Request To Approve Product","Solicitud para aprobar el producto",module,frontend/Mgs/claue
+"Low Stock Notification Mail to Seller","Notificación de existencias bajas al vendedor",module,frontend/Mgs/claue
+"Request To Approve Product","Solicitud para aprobar el producto",module,frontend/Mgs/claue
+"Become Seller Request","Solicitud de convertirse en vendedor",module,frontend/Mgs/claue
+"Customer Query  :","Consulta del cliente:",module,frontend/Mgs/claue
+"Seller Query  :","Consulta del vendedor:",module,frontend/Mgs/claue
+"Customer Query  :","Consulta del cliente:",module,frontend/Mgs/claue
