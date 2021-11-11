@@ -25690,3 +25690,8 @@ Erase Account,Borrar cuenta,module,frontend/Mgs/claue
 "Customer Query  :","Consulta del cliente:",module,frontend/Mgs/claue
 "Seller Query  :","Consulta del vendedor:",module,frontend/Mgs/claue
 "Customer Query  :","Consulta del cliente:",module,frontend/Mgs/claue
+"Success Message","Mensaje Enviado",module,frontend/Mgs/claue
+"Your mail has been sent...","Su correo ha sido enviado ...",module,frontend/Mgs/claue
+You subscribe to "General Subscription".,Esta suscrito a "Suscripción general".,module,frontend/Mgs/claue
+"You don\'t subscribe to our newsletter.","No esta suscrito a nuestro boletín",module,frontend/Mgs/claue
+"To sign in to our site, use account credentials  at the link below.","Para iniciar sesión en nuestro sitio, use las credenciales de la cuenta en el enlace a continuación.",module,frontend/Mgs/claue
