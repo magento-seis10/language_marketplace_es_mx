@@ -25706,3 +25706,14 @@ You subscribe to "General Subscription".,Esta suscrito a "Suscripción general".
 View Invoice Details,Ver detalles del Recibo de Pago,module,frontend/Mgs/claue
 Invoice Slip,Recibo de Pago,module,frontend/Mgs/claue
 View Seller's Collection,Ver la Colección del Vendedor,module,frontend/Mgs/claue
+"%1 Total Products","%1 Total de Productos",module,frontend/Mgs/claue
+"SKU Already Exist","SKU ya existe",module,frontend/Mgs/claue
+"SKU Available","SKU disponible",module,frontend/Mgs/claue
+"Product(s)","Producto(s)",module,frontend/Mgs/claue
+" has been approved by admin. Please go to your My Product List section to check status"," ha sido aprobado por el administrador. Vaya a la sección Mi lista de productos para comprobar el Status",module,frontend/Mgs/claue
+" has been disapproved by admin. Please go to your My Product List section to check status"," ha sido rechazado por el administrador. Vaya a la sección Mi lista de productos para comprobar el Status",module,frontend/Mgs/claue
+" has been sold from your store with order id "," se ha vendido en su tienda con ID de pedido ",module,frontend/Mgs/claue
+"You have recieved payment for ","Ha recibido el pago por ",module,frontend/Mgs/claue
+" order. Mode of payment is "," pedido. La forma de pago es ",module,frontend/Mgs/claue
+"Payment has been successfully done for ","El pago se ha realizado correctamente para ",module,frontend/Mgs/claue
+" Order"," Pedido",module,frontend/Mgs/claue
